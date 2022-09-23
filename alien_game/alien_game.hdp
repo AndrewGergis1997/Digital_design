@@ -1,0 +1,23 @@
+[ModelSim]
+alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/work
+tb_lib = P:/Git_stuff/27/tb_lib/work
+[hdl]
+alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/hdl
+pre_made = P:\Git_stuff\27\pre_made\hdl
+tb_lib = P:/Git_stuff/27/tb_lib/hdl
+[hds]
+alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/hds
+pre_made = P:\Git_stuff\27\pre_made\hds
+tb_lib = P:/Git_stuff/27/tb_lib/hds
+[hds_settings]
+default_library = pre_made
+version = 2
+[library_files_inclusion]
+pre_made = all
+tb_lib = all
+[library_type]
+alien_game_lib = regular
+pre_made = regular
+tb_lib = regular
+[shared]
+others = $HDS_TEAM_HOME/shared.hdp
