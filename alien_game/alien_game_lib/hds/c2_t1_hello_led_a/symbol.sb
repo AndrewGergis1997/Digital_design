@@ -439,7 +439,7 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c2_t1_hello_le
 )
 (vvPair
 variable "date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "day"
@@ -451,7 +451,7 @@ value "perjantai"
 )
 (vvPair
 variable "dd"
-value "30"
+value "07"
 )
 (vvPair
 variable "entity_name"
@@ -479,7 +479,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -491,7 +491,7 @@ value "HTC219-704-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "13:27:18"
+value "12:12:06"
 )
 (vvPair
 variable "group"
@@ -511,11 +511,11 @@ value "alien_game_lib"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\work"
+value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -523,11 +523,11 @@ value "c2_t1_hello_led_a"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
@@ -543,7 +543,7 @@ value "<Undefined Variable>"
 )
 (vvPair
 variable "project_name"
-value "examples"
+value "alien_game"
 )
 (vvPair
 variable "series"
@@ -591,7 +591,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "13:27:18"
+value "12:12:06"
 )
 (vvPair
 variable "unit"
@@ -1467,6 +1467,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 174,0
+lastUid 197,0
 activeModelName "Symbol:CDM"
 )

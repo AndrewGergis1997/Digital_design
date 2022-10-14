@@ -147,7 +147,7 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c2_t1_hello_le
 )
 (vvPair
 variable "date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "day"
@@ -159,7 +159,7 @@ value "perjantai"
 )
 (vvPair
 variable "dd"
-value "30"
+value "07"
 )
 (vvPair
 variable "entity_name"
@@ -187,7 +187,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -199,7 +199,7 @@ value "HTC219-704-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "13:29:33"
+value "12:33:55"
 )
 (vvPair
 variable "group"
@@ -219,11 +219,11 @@ value "alien_game_lib"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\work"
+value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -231,11 +231,11 @@ value "c2_t1_hello_led"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
@@ -251,7 +251,7 @@ value "<Undefined Variable>"
 )
 (vvPair
 variable "project_name"
-value "examples"
+value "alien_game"
 )
 (vvPair
 variable "series"
@@ -299,7 +299,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "13:29:33"
+value "12:33:55"
 )
 (vvPair
 variable "unit"
@@ -543,7 +543,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,46700,49000"
+xt "36200,48000,46500,49000"
 st "
 by %user on %dd %month %year
 "
@@ -697,7 +697,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "57200,44000,60900,45000"
+xt "57200,44000,61900,45000"
 st "
 %project_name
 "
@@ -1041,7 +1041,7 @@ optionalChildren [
 *26 (Property
 pclass "param"
 pname "value"
-pvalue "\"00000001\""
+pvalue "\"00000010\""
 ptn "String"
 )
 ]
@@ -1449,7 +1449,7 @@ optionalChildren [
 *44 (Property
 pclass "param"
 pname "value"
-pvalue "\"01000000\""
+pvalue "\"00001000\""
 ptn "String"
 )
 ]
@@ -1513,7 +1513,7 @@ decl (Decl
 n "btn"
 t "std_logic_vector"
 b "(3 DOWNTO 0)"
-o 4
+o 1
 suid 4,0
 )
 declText (MLText
@@ -1664,7 +1664,7 @@ lang 2
 decl (Decl
 n "sel"
 t "std_logic"
-o 4
+o 1
 suid 4,0
 )
 )
@@ -1966,7 +1966,7 @@ decl (Decl
 n "din1"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 7
+o 6
 suid 3,0
 )
 )
@@ -2343,7 +2343,7 @@ lang 2
 decl (Decl
 n "sel"
 t "std_logic"
-o 4
+o 1
 suid 4,0
 )
 )
@@ -2873,7 +2873,7 @@ lang 2
 decl (Decl
 n "sel"
 t "std_logic"
-o 4
+o 1
 suid 4,0
 )
 )
@@ -3242,7 +3242,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 7
+o 6
 )
 )
 )
@@ -3327,7 +3327,7 @@ optionalChildren [
 *119 (Property
 pclass "param"
 pname "value"
-pvalue "\"111111110000000011111111\""
+pvalue "\"000000000000000011111111\""
 ptn "String"
 )
 ]
@@ -3345,7 +3345,7 @@ decl (Decl
 n "dout1"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 7
+o 6
 suid 7,0
 )
 declText (MLText
@@ -4043,8 +4043,8 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "15000,18000,19000,19000"
-st "btn : (3:0)"
+xt "15000,18000,16400,19000"
+st "btn"
 blo "15000,18800"
 tm "WireNameMgr"
 )
@@ -4539,11 +4539,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,24,2561,1440"
-viewArea "-41400,-16600,98580,59000"
+viewArea "-41400,-16600,98580,60680"
 cachedDiagramExtent "0,0,216791,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 1162,0
+lastUid 1212,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -5691,7 +5691,7 @@ decl (Decl
 n "btn"
 t "std_logic_vector"
 b "(3 DOWNTO 0)"
-o 4
+o 1
 suid 4,0
 )
 )
@@ -5720,7 +5720,7 @@ decl (Decl
 n "dout1"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 7
+o 6
 suid 7,0
 )
 )

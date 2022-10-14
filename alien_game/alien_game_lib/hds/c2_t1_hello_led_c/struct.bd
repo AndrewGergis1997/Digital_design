@@ -111,7 +111,7 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c2_t1_hello_le
 )
 (vvPair
 variable "date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "day"
@@ -123,7 +123,7 @@ value "perjantai"
 )
 (vvPair
 variable "dd"
-value "30"
+value "07"
 )
 (vvPair
 variable "entity_name"
@@ -151,7 +151,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -163,7 +163,7 @@ value "HTC219-704-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "13:21:04"
+value "12:12:34"
 )
 (vvPair
 variable "group"
@@ -183,11 +183,11 @@ value "alien_game_lib"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\work"
+value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -195,11 +195,11 @@ value "c2_t1_hello_led_c"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
@@ -215,7 +215,7 @@ value "<Undefined Variable>"
 )
 (vvPair
 variable "project_name"
-value "examples"
+value "alien_game"
 )
 (vvPair
 variable "series"
@@ -263,7 +263,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "13:21:04"
+value "12:12:34"
 )
 (vvPair
 variable "unit"
@@ -2704,8 +2704,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,39800,15500,40600"
-st "sw0        : std_logic
-"
+st "sw0        : std_logic"
 )
 )
 *92 (Net
@@ -2724,8 +2723,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,47200,29000,48000"
-st "SIGNAL y_coord    : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL y_coord    : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *93 (Net
@@ -2744,8 +2742,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,44000,29500,44800"
-st "SIGNAL color_BGR  : std_logic_vector(23 DOWNTO 0)
-"
+st "SIGNAL color_BGR  : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *94 (Net
@@ -2764,8 +2761,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,45600,29000,46400"
-st "SIGNAL x_coord    : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL x_coord    : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *95 (Net
@@ -2784,8 +2780,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,46400,29000,47200"
-st "SIGNAL x_coord1   : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL x_coord1   : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *96 (Net
@@ -2804,8 +2799,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,48000,29000,48800"
-st "SIGNAL y_coord1   : std_logic_vector(7 DOWNTO 0)
-"
+st "SIGNAL y_coord1   : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *97 (Net
@@ -2824,8 +2818,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,44800,29500,45600"
-st "SIGNAL color_BGR1 : std_logic_vector(23 DOWNTO 0)
-"
+st "SIGNAL color_BGR1 : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *98 (Net
@@ -2844,8 +2837,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,39000,25500,39800"
-st "btn        : std_logic_vector(3 DOWNTO 0)
-"
+st "btn        : std_logic_vector(3 DOWNTO 0)"
 )
 )
 *99 (PortIoIn
@@ -3043,8 +3035,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,40600,26000,41400"
-st "RGB        : std_logic_vector(23 DOWNTO 0)
-"
+st "RGB        : std_logic_vector(23 DOWNTO 0)"
 )
 )
 *104 (Net
@@ -3063,8 +3054,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,41400,25500,42200"
-st "X          : std_logic_vector(7 DOWNTO 0)
-"
+st "X          : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *105 (Net
@@ -3083,8 +3073,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "3000,42200,25500,43000"
-st "Y          : std_logic_vector(7 DOWNTO 0)
-"
+st "Y          : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *106 (Wire
@@ -3750,11 +3739,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,0,2561,1416"
-viewArea "-15700,-2352,96284,58128"
+viewArea "-15700,-2400,96284,59424"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 1091,0
+lastUid 1114,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

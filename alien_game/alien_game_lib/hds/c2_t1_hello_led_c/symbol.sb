@@ -476,7 +476,7 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c2_t1_hello_le
 )
 (vvPair
 variable "date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "day"
@@ -488,7 +488,7 @@ value "perjantai"
 )
 (vvPair
 variable "dd"
-value "30"
+value "07"
 )
 (vvPair
 variable "entity_name"
@@ -516,7 +516,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -528,7 +528,7 @@ value "HTC219-704-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "13:21:04"
+value "12:12:34"
 )
 (vvPair
 variable "group"
@@ -548,11 +548,11 @@ value "alien_game_lib"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\work"
+value "$HDS_PROJECT_DIR/alien_game_lib/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -560,11 +560,11 @@ value "c2_t1_hello_led_c"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
@@ -580,7 +580,7 @@ value "<Undefined Variable>"
 )
 (vvPair
 variable "project_name"
-value "examples"
+value "alien_game"
 )
 (vvPair
 variable "series"
@@ -628,7 +628,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "13:21:04"
+value "12:12:34"
 )
 (vvPair
 variable "unit"
@@ -695,8 +695,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2800,58000,3600"
-st "sw0 : IN     std_logic  ;
-"
+st "sw0 : IN     std_logic  ;"
 )
 thePort (LogicalPort
 lang 2
@@ -741,8 +740,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,2000,68000,2800"
-st "btn : IN     std_logic_vector (3 DOWNTO 0) ;
-"
+st "btn : IN     std_logic_vector (3 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -789,8 +787,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,3600,68500,4400"
-st "RGB : OUT    std_logic_vector (23 DOWNTO 0) ;
-"
+st "RGB : OUT    std_logic_vector (23 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -838,8 +835,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,4400,68000,5200"
-st "X   : OUT    std_logic_vector (7 DOWNTO 0) ;
-"
+st "X   : OUT    std_logic_vector (7 DOWNTO 0) ;"
 )
 thePort (LogicalPort
 lang 2
@@ -887,8 +883,7 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "44000,5200,67000,6000"
-st "Y   : OUT    std_logic_vector (7 DOWNTO 0)
-"
+st "Y   : OUT    std_logic_vector (7 DOWNTO 0)"
 )
 thePort (LogicalPort
 lang 2
@@ -1600,6 +1595,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 230,0
+lastUid 253,0
 activeModelName "Symbol:CDM"
 )

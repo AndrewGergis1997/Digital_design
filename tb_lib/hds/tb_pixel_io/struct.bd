@@ -83,7 +83,7 @@ value "P:\\StudentDocuments\\27\\tb_lib\\hds\\tb_pixel_io"
 )
 (vvPair
 variable "date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "day"
@@ -95,7 +95,7 @@ value "perjantai"
 )
 (vvPair
 variable "dd"
-value "30"
+value "07"
 )
 (vvPair
 variable "entity_name"
@@ -123,7 +123,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "30.09.2022"
+value " 7.10.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -135,7 +135,7 @@ value "HTC219-704-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "13:30:55"
+value "12:40:21"
 )
 (vvPair
 variable "group"
@@ -155,11 +155,11 @@ value "tb_lib"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
-value "P:\\StudentDocuments\\27\\tb_lib\\work"
+value "P:/Git_stuff/27/tb_lib/work"
 )
 (vvPair
 variable "mm"
-value "09"
+value "10"
 )
 (vvPair
 variable "module_name"
@@ -167,11 +167,11 @@ value "tb_pixel_io"
 )
 (vvPair
 variable "month"
-value "syys"
+value "loka"
 )
 (vvPair
 variable "month_long"
-value "syyskuu"
+value "lokakuu"
 )
 (vvPair
 variable "p"
@@ -187,7 +187,7 @@ value "<Undefined Variable>"
 )
 (vvPair
 variable "project_name"
-value "examples"
+value "alien_game"
 )
 (vvPair
 variable "series"
@@ -235,7 +235,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "13:30:55"
+value "12:40:21"
 )
 (vvPair
 variable "unit"
@@ -287,7 +287,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,46700,49000"
+xt "36200,48000,46500,49000"
 st "
 by %user on %dd %month %year
 "
@@ -444,7 +444,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "57200,44000,60900,45000"
+xt "57200,44000,61900,45000"
 st "
 %project_name
 "
@@ -1539,12 +1539,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,-8,2568,1408"
-viewArea "-44626,-25161,119734,64999"
+windowSize "0,0,2561,1416"
+viewArea "-44600,-25200,118710,64960"
 cachedDiagramExtent "0,0,73000,49200"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 795,0
+lastUid 841,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
