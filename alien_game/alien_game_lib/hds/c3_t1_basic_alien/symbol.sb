@@ -563,7 +563,7 @@ value "HTC219-720-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "11:39:14"
+value "12:43:54"
 )
 (vvPair
 variable "group"
@@ -584,6 +584,14 @@ value "alien_game_lib"
 (vvPair
 variable "library_downstream_ModelSimCompiler"
 value "$HDS_PROJECT_DIR/alien_game_lib/work"
+)
+(vvPair
+variable "library_downstream_QuestaSimCompiler"
+value "$HDS_PROJECT_DIR/alien_game_lib/work"
+)
+(vvPair
+variable "library_downstream_SvAssistantInvoke"
+value "$HDS_PROJECT_DIR/alien_game_lib/svassistant"
 )
 (vvPair
 variable "mm"
@@ -663,7 +671,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "11:39:14"
+value "12:43:54"
 )
 (vvPair
 variable "unit"
@@ -1719,6 +1727,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 423,0
+lastUid 446,0
 activeModelName "Symbol:CDM"
 )
