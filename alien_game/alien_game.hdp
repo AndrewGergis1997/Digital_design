@@ -19,6 +19,7 @@ default_library = alien_game_lib
 design_root = .()
 version = 2
 [library_files_inclusion]
+alien_game_lib = specify
 pre_made = all
 tb_lib = all
 [library_type]
