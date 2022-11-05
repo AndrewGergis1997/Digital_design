@@ -107,23 +107,23 @@ VExpander (VariableExpander
 vvMap [
 (vvPair
 variable "HDLDir"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hdl"
+value "/home/mqange/DD/27/alien_game/alien_game_lib/hdl"
 )
 (vvPair
 variable "HDSDir"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds"
+value "/home/mqange/DD/27/alien_game/alien_game_lib/hds"
 )
 (vvPair
 variable "SideDataDesignDir"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_m1\\struct.bd.info"
+value "/home/mqange/DD/27/alien_game/alien_game_lib/hds/c4_t1_m1/struct.bd.info"
 )
 (vvPair
 variable "SideDataUserDir"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_m1\\struct.bd.user"
+value "/home/mqange/DD/27/alien_game/alien_game_lib/hds/c4_t1_m1/struct.bd.user"
 )
 (vvPair
 variable "SourceDir"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds"
+value "/home/mqange/DD/27/alien_game/alien_game_lib/hds"
 )
 (vvPair
 variable "appl"
@@ -139,27 +139,27 @@ value "%(unit)_%(view)_config"
 )
 (vvPair
 variable "d"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_m1"
+value "/home/mqange/DD/27/alien_game/alien_game_lib/hds/c4_t1_m1"
 )
 (vvPair
 variable "d_logical"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_m1"
+value "/home/mqange/DD/27/alien_game/alien_game_lib/hds/c4_t1_m1"
 )
 (vvPair
 variable "date"
-value " 4.11.2022"
+value "11/05/22"
 )
 (vvPair
 variable "day"
-value "pe"
+value "Sat"
 )
 (vvPair
 variable "day_long"
-value "perjantai"
+value "Saturday"
 )
 (vvPair
 variable "dd"
-value "04"
+value "05"
 )
 (vvPair
 variable "entity_name"
@@ -187,27 +187,27 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value " 4.11.2022"
+value "11/05/22"
 )
 (vvPair
 variable "graphical_source_group"
-value "UNKNOWN"
+value "mqange"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-714-SPC"
+value "linux-desktop10.tuni.fi"
 )
 (vvPair
 variable "graphical_source_time"
-value "17:09:19"
+value "22:01:17"
 )
 (vvPair
 variable "group"
-value "UNKNOWN"
+value "mqange"
 )
 (vvPair
 variable "host"
-value "HTC219-714-SPC"
+value "linux-desktop10.tuni.fi"
 )
 (vvPair
 variable "language"
@@ -239,19 +239,19 @@ value "c4_t1_m1"
 )
 (vvPair
 variable "month"
-value "marras"
+value "Nov"
 )
 (vvPair
 variable "month_long"
-value "marraskuu"
+value "November"
 )
 (vvPair
 variable "p"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_m1\\struct.bd"
+value "/home/mqange/DD/27/alien_game/alien_game_lib/hds/c4_t1_m1/struct.bd"
 )
 (vvPair
 variable "p_logical"
-value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_m1\\struct.bd"
+value "/home/mqange/DD/27/alien_game/alien_game_lib/hds/c4_t1_m1/struct.bd"
 )
 (vvPair
 variable "package_name"
@@ -275,7 +275,7 @@ value "<TBD>"
 )
 (vvPair
 variable "task_ModelSimPath"
-value "C:\\Apps\\MODELTECH_10.2C\\win32"
+value "/opt/lintula/modelsim/10.7d/modeltech/bin"
 )
 (vvPair
 variable "task_NC-SimPath"
@@ -307,7 +307,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "17:09:19"
+value "22:01:17"
 )
 (vvPair
 variable "unit"
@@ -359,7 +359,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,47600,49000"
+xt "36200,48000,51200,49000"
 st "
 by %user on %dd %month %year
 "
@@ -390,7 +390,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "53200,44000,56200,45000"
+xt "53200,44000,56800,45000"
 st "
 Project:
 "
@@ -421,7 +421,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,46000,46200,47000"
+xt "36200,46000,52400,47000"
 st "
 <enter diagram title here>
 "
@@ -452,7 +452,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "32200,46000,34300,47000"
+xt "32200,46000,35800,47000"
 st "
 Title:
 "
@@ -483,7 +483,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "53200,45200,62600,46200"
+xt "53200,45200,66400,46200"
 st "
 <enter comments here>
 "
@@ -513,7 +513,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "57200,44000,61900,45000"
+xt "57200,44000,63800,45000"
 st "
 %project_name
 "
@@ -543,7 +543,7 @@ uid 31,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "39000,44500,46000,45500"
+xt "38000,44500,47000,45500"
 st "
 <company name>
 "
@@ -575,7 +575,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "32200,47000,34300,48000"
+xt "32200,47000,35200,48000"
 st "
 Path:
 "
@@ -606,7 +606,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "32200,48000,34900,49000"
+xt "32200,48000,35800,49000"
 st "
 Edited:
 "
@@ -637,7 +637,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,47000,48100,48000"
+xt "36200,47000,51200,48000"
 st "
 %library/%unit/%view
 "
@@ -699,12 +699,12 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 114,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "-2400,10500,-1000,11500"
+xt "-2500,10500,-1000,11400"
 st "btn"
 ju 2
-blo "-1000,11300"
+blo "-1000,11200"
 tm "WireNameMgr"
 )
 )
@@ -731,12 +731,12 @@ stg "RightVerticalLayoutStrategy"
 f (Text
 uid 128,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "11000,16500,14000,17500"
+xt "9500,16500,14000,17400"
 st "y : (2:0)"
 ju 2
-blo "14000,17300"
+blo "14000,17200"
 )
 )
 thePort (LogicalPort
@@ -769,11 +769,11 @@ stg "VerticalLayoutStrategy"
 f (Text
 uid 132,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "6000,16500,9000,17500"
+xt "6000,16500,10500,17400"
 st "x : (2:0)"
-blo "6000,17300"
+blo "6000,17200"
 )
 )
 thePort (LogicalPort
@@ -806,31 +806,31 @@ textVec [
 *16 (Text
 uid 118,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "6200,18000,12400,19000"
+xt "6200,18000,13700,18900"
 st "alien_game_lib"
-blo "6200,18800"
+blo "6200,18700"
 tm "BdLibraryNameMgr"
 )
 *17 (Text
 uid 119,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "6200,19000,13900,20000"
+xt "6200,19000,15200,19900"
 st "c1_t4_decrementer"
-blo "6200,19800"
+blo "6200,19700"
 tm "CptNameMgr"
 )
 *18 (Text
 uid 120,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "6200,20000,8000,21000"
+xt "6200,20000,7700,20900"
 st "U_2"
-blo "6200,20800"
+blo "6200,20700"
 tm "InstanceNameMgr"
 )
 ]
@@ -843,7 +843,7 @@ uid 122,0
 text (MLText
 uid 123,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "-10000,22000,-10000,22000"
 )
@@ -892,11 +892,11 @@ stg "VerticalLayoutStrategy"
 f (Text
 uid 146,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "6000,26500,9000,27500"
+xt "6000,26500,10500,27400"
 st "x : (2:0)"
-blo "6000,27300"
+blo "6000,27200"
 )
 )
 thePort (LogicalPort
@@ -928,12 +928,12 @@ stg "RightVerticalLayoutStrategy"
 f (Text
 uid 150,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "11000,30500,14000,31500"
+xt "9500,30500,14000,31400"
 st "y : (2:0)"
 ju 2
-blo "14000,31300"
+blo "14000,31200"
 )
 )
 thePort (LogicalPort
@@ -967,31 +967,31 @@ textVec [
 *22 (Text
 uid 136,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "6200,28000,12400,29000"
+xt "6200,28000,13700,28900"
 st "alien_game_lib"
-blo "6200,28800"
+blo "6200,28700"
 tm "BdLibraryNameMgr"
 )
 *23 (Text
 uid 137,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "6200,29000,13700,30000"
+xt "6200,29000,15200,29900"
 st "c1_t3_incrementer"
-blo "6200,29800"
+blo "6200,29700"
 tm "CptNameMgr"
 )
 *24 (Text
 uid 138,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "6200,30000,8000,31000"
+xt "6200,30000,7700,30900"
 st "U_1"
-blo "6200,30800"
+blo "6200,30700"
 tm "InstanceNameMgr"
 )
 ]
@@ -1004,7 +1004,7 @@ uid 140,0
 text (MLText
 uid 141,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "-10000,32000,-10000,32000"
 )
@@ -1071,11 +1071,11 @@ uid 163,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "12000,11700,13800,12700"
+xt "12000,11700,14000,12600"
 st "din1"
-blo "12000,12500"
+blo "12000,12400"
 )
 )
 thePort (LogicalPort
@@ -1130,12 +1130,12 @@ uid 168,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "22250,10532,24050,11532"
+xt "22050,10532,24050,11432"
 st "dout"
 ju 2
-blo "24050,11332"
+blo "24050,11232"
 )
 )
 thePort (LogicalPort
@@ -1185,11 +1185,11 @@ uid 174,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "11885,9294,13685,10294"
+xt "11885,9294,13885,10194"
 st "din0"
-blo "11885,10094"
+blo "11885,9994"
 )
 )
 thePort (LogicalPort
@@ -1421,29 +1421,29 @@ textVec [
 uid 154,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "17500,8500,22500,9500"
+xt "17500,8500,23000,9400"
 st "moduleware"
-blo "17500,9300"
+blo "17500,9200"
 )
 *46 (Text
 uid 155,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "17500,9500,18600,10500"
+xt "17500,9500,18500,10400"
 st "or"
-blo "17500,10300"
+blo "17500,10200"
 )
 *47 (Text
 uid 156,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "17500,10500,19700,11500"
+xt "17500,10500,19500,11400"
 st "U_12"
-blo "17500,11300"
+blo "17500,11200"
 tm "InstanceNameMgr"
 )
 ]
@@ -1456,7 +1456,7 @@ uid 158,0
 text (MLText
 uid 159,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 )
 header ""
@@ -1516,12 +1516,12 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 201,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "19400,12500,22000,13500"
+xt "19000,12500,22000,13400"
 st "enable"
 ju 2
-blo "22000,13300"
+blo "22000,13200"
 tm "WireNameMgr"
 )
 )
@@ -1573,18 +1573,18 @@ uid 214,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "23001,54527,24801,55527"
+xt "22801,54527,24801,55427"
 st "dout"
 ju 2
-blo "24801,55327"
+blo "24801,55227"
 )
 s (Text
 uid 215,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "24801,55527,24801,55527"
 ju 2
@@ -1639,18 +1639,18 @@ sl 0
 ro 270
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "24527,56183,25527,57583"
+xt "24527,56083,25427,57583"
 st "sel"
-blo "25327,57583"
+blo "25227,57583"
 )
 s (Text
 uid 222,0
 sl 0
 ro 270
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "25527,57583,25527,57583"
 blo "25527,57583"
@@ -1761,9 +1761,9 @@ text (MLText
 uid 234,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "24200,23200,25400,24200"
+xt "24200,23200,25200,24100"
 st "
 Lo
 "
@@ -1793,9 +1793,9 @@ text (MLText
 uid 237,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "24202,21200,25402,22200"
+xt "24202,21200,25202,22100"
 st "
 Hi
 "
@@ -1825,9 +1825,9 @@ text (MLText
 uid 240,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "24311,22717,26211,23717"
+xt "24311,22717,25811,23617"
 st "
 mux
 "
@@ -1875,17 +1875,17 @@ uid 244,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "28750,55000,30550,56000"
+xt "28750,55000,30750,55900"
 st "din0"
-blo "28750,55800"
+blo "28750,55700"
 )
 s (Text
 uid 245,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "28750,56000,28750,56000"
 blo "28750,56000"
@@ -1939,17 +1939,17 @@ uid 250,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "28750,53000,30550,54000"
+xt "28750,53000,30750,53900"
 st "din1"
-blo "28750,53800"
+blo "28750,53700"
 )
 s (Text
 uid 251,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "28750,54000,28750,54000"
 blo "28750,54000"
@@ -1988,29 +1988,29 @@ textVec [
 uid 205,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "25350,23100,30350,24100"
+xt "25350,23100,30850,24000"
 st "moduleware"
-blo "25350,23900"
+blo "25350,23800"
 )
 *68 (Text
 uid 206,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "25350,24100,27250,25100"
+xt "25350,24100,26850,25000"
 st "mux"
-blo "25350,24900"
+blo "25350,24800"
 )
 *69 (Text
 uid 207,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "25350,25100,27150,26100"
+xt "25350,25100,26850,26000"
 st "U_3"
-blo "25350,25900"
+blo "25350,25800"
 tm "InstanceNameMgr"
 )
 ]
@@ -2023,7 +2023,7 @@ uid 209,0
 text (MLText
 uid 210,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "20000,400,20000,400"
 )
@@ -2089,12 +2089,12 @@ uid 265,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "99125,36325,100925,37325"
+xt "98925,36325,100925,37225"
 st "din1"
 ju 2
-blo "100925,37125"
+blo "100925,37025"
 )
 )
 thePort (LogicalPort
@@ -2149,11 +2149,11 @@ uid 270,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "90125,42907,91925,43907"
+xt "90125,42907,92125,43807"
 st "dout"
-blo "90125,43707"
+blo "90125,43607"
 )
 )
 thePort (LogicalPort
@@ -2203,12 +2203,12 @@ uid 276,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "101010,35919,102810,36919"
+xt "100810,35919,102810,36819"
 st "din0"
 ju 2
-blo "102810,36719"
+blo "102810,36619"
 )
 )
 thePort (LogicalPort
@@ -2440,29 +2440,29 @@ textVec [
 uid 256,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "29500,38500,34500,39500"
+xt "29500,38500,35000,39400"
 st "moduleware"
-blo "29500,39300"
+blo "29500,39200"
 )
 *91 (Text
 uid 257,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "29500,39500,30600,40500"
+xt "29500,39500,30500,40400"
 st "or"
-blo "29500,40300"
+blo "29500,40200"
 )
 *92 (Text
 uid 258,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "29500,40500,31700,41500"
+xt "29500,40500,31500,41400"
 st "U_10"
-blo "29500,41300"
+blo "29500,41200"
 tm "InstanceNameMgr"
 )
 ]
@@ -2475,7 +2475,7 @@ uid 260,0
 text (MLText
 uid 261,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "12000,29000,12000,29000"
 )
@@ -2546,12 +2546,12 @@ uid 310,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "34419,11342,36219,12342"
+xt "34219,11342,36219,12242"
 st "dout"
 ju 2
-blo "36219,12142"
+blo "36219,12042"
 )
 )
 thePort (LogicalPort
@@ -2601,11 +2601,11 @@ uid 316,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "23885,10294,25685,11294"
+xt "23885,10294,25885,11194"
 st "din0"
-blo "23885,11094"
+blo "23885,10994"
 )
 )
 thePort (LogicalPort
@@ -2654,11 +2654,11 @@ uid 321,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "24000,12700,25800,13700"
+xt "24000,12700,26000,13600"
 st "din1"
-blo "24000,13500"
+blo "24000,13400"
 )
 )
 thePort (LogicalPort
@@ -2805,29 +2805,29 @@ textVec [
 uid 301,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "28500,9500,33500,10500"
+xt "28500,9500,34000,10400"
 st "moduleware"
-blo "28500,10300"
+blo "28500,10200"
 )
 *109 (Text
 uid 302,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "28500,10500,30100,11500"
+xt "28500,10500,30000,11400"
 st "and"
-blo "28500,11300"
+blo "28500,11200"
 )
 *110 (Text
 uid 303,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "28500,11500,30700,12500"
+xt "28500,11500,30500,12400"
 st "U_11"
-blo "28500,12300"
+blo "28500,12200"
 tm "InstanceNameMgr"
 )
 ]
@@ -2840,7 +2840,7 @@ uid 305,0
 text (MLText
 uid 306,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "12000,1000,12000,1000"
 )
@@ -2912,18 +2912,18 @@ uid 347,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "24501,89527,26301,90527"
+xt "24301,89527,26301,90427"
 st "dout"
 ju 2
-blo "26301,90327"
+blo "26301,90227"
 )
 s (Text
 uid 348,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "26301,90527,26301,90527"
 ju 2
@@ -2935,7 +2935,8 @@ lang 2
 m 1
 decl (Decl
 n "dout"
-t "std_logic"
+t "std_logic_vector"
+b "(2 DOWNTO 0)"
 o 13
 )
 )
@@ -2978,19 +2979,19 @@ sl 0
 ro 270
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "35527,77683,36527,79083"
+xt "35527,77683,36427,79183"
 st "sel"
 ju 2
-blo "36327,77683"
+blo "36227,77683"
 )
 s (Text
 uid 355,0
 sl 0
 ro 270
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "36527,77683,36527,77683"
 ju 2
@@ -3102,9 +3103,9 @@ text (MLText
 uid 367,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "35200,20694,36400,21694"
+xt "35200,20694,36200,21594"
 st "
 Lo
 "
@@ -3134,9 +3135,9 @@ text (MLText
 uid 370,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "35202,22644,36402,23644"
+xt "35202,22644,36202,23544"
 st "
 Hi
 "
@@ -3166,9 +3167,9 @@ text (MLText
 uid 373,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "35311,21683,37211,22683"
+xt "35311,21683,36811,22583"
 st "
 mux
 "
@@ -3216,17 +3217,17 @@ uid 377,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "49250,82000,51050,83000"
+xt "49250,82000,51250,82900"
 st "din0"
-blo "49250,82800"
+blo "49250,82700"
 )
 s (Text
 uid 378,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "49250,83000,49250,83000"
 blo "49250,83000"
@@ -3236,7 +3237,8 @@ thePort (LogicalPort
 lang 2
 decl (Decl
 n "din0"
-t "std_logic"
+t "std_logic_vector"
+b "(2 DOWNTO 0)"
 o 7
 )
 )
@@ -3279,17 +3281,17 @@ uid 383,0
 sl 0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "49250,98000,51050,99000"
+xt "49250,98000,51250,98900"
 st "din1"
-blo "49250,98800"
+blo "49250,98700"
 )
 s (Text
 uid 384,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "49250,99000,49250,99000"
 blo "49250,99000"
@@ -3328,29 +3330,29 @@ textVec [
 uid 338,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "37350,22100,42350,23100"
+xt "37350,22100,42850,23000"
 st "moduleware"
-blo "37350,22900"
+blo "37350,22800"
 )
 *130 (Text
 uid 339,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "37350,23100,39250,24100"
+xt "37350,23100,38850,24000"
 st "mux"
-blo "37350,23900"
+blo "37350,23800"
 )
 *131 (Text
 uid 340,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "37350,24100,39150,25100"
+xt "37350,24100,38850,25000"
 st "U_6"
-blo "37350,24900"
+blo "37350,24800"
 tm "InstanceNameMgr"
 )
 ]
@@ -3363,7 +3365,7 @@ uid 342,0
 text (MLText
 uid 343,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "31000,-600,31000,-600"
 )
@@ -3425,12 +3427,12 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 391,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "34600,25500,36000,26500"
+xt "34500,25500,36000,26400"
 st "clk"
 ju 2
-blo "36000,26300"
+blo "36000,26200"
 tm "WireNameMgr"
 )
 )
@@ -3471,12 +3473,12 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 397,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "37900,17500,40000,18500"
+xt "37500,17500,40000,18400"
 st "rst_n"
 ju 2
-blo "40000,18300"
+blo "40000,18200"
 tm "WireNameMgr"
 )
 )
@@ -3521,18 +3523,19 @@ f (Text
 uid 410,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "43112,21522,43912,22522"
+xt "43112,21522,43612,22422"
 st "d"
-blo "43112,22322"
+blo "43112,22222"
 )
 )
 thePort (LogicalPort
 lang 2
 decl (Decl
 n "d"
-t "std_logic"
+t "std_logic_vector"
+b "(2 DOWNTO 0)"
 o 13
 )
 )
@@ -3574,12 +3577,12 @@ f (Text
 uid 415,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "46096,21539,46896,22539"
+xt "46396,21539,46896,22439"
 st "q"
 ju 2
-blo "46896,22339"
+blo "46896,22239"
 )
 )
 thePort (LogicalPort
@@ -3587,7 +3590,8 @@ lang 2
 m 1
 decl (Decl
 n "q"
-t "std_logic"
+t "std_logic_vector"
+b "(2 DOWNTO 0)"
 o 7
 )
 )
@@ -3643,11 +3647,11 @@ f (Text
 uid 420,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "43890,25125,45290,26125"
+xt "43890,25125,45390,26025"
 st "clk"
-blo "43890,25925"
+blo "43890,25825"
 )
 )
 thePort (LogicalPort
@@ -3705,11 +3709,11 @@ f (Text
 uid 426,0
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "44380,21120,45680,22120"
+xt "44380,21120,45880,22020"
 st "rst"
-blo "44380,21920"
+blo "44380,21820"
 )
 )
 thePort (LogicalPort
@@ -3768,29 +3772,29 @@ textVec [
 uid 401,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "46350,26100,51350,27100"
+xt "46350,26100,51850,27000"
 st "moduleware"
-blo "46350,26900"
+blo "46350,26800"
 )
 *147 (Text
 uid 402,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "46350,27100,47950,28100"
+xt "46350,27100,48350,28000"
 st "adff"
-blo "46350,27900"
+blo "46350,27800"
 )
 *148 (Text
 uid 403,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "46350,28100,48150,29100"
+xt "46350,28100,47850,29000"
 st "U_7"
-blo "46350,28900"
+blo "46350,28800"
 tm "InstanceNameMgr"
 )
 ]
@@ -3803,7 +3807,7 @@ uid 405,0
 text (MLText
 uid 406,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "39000,5400,39000,5400"
 )
@@ -3850,7 +3854,7 @@ stg "VerticalLayoutStrategy"
 f (Text
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "43112,23493,44912,24493"
 st "load"
@@ -3896,7 +3900,7 @@ stg "VerticalLayoutStrategy"
 f (Text
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "44450,26000,45850,27000"
 st "set"
@@ -3943,7 +3947,7 @@ stg "RightVerticalLayoutStrategy"
 f (Text
 sl 0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "45696,25499,46896,26499"
 st "qb"
@@ -3956,7 +3960,8 @@ lang 2
 m 1
 decl (Decl
 n "qb"
-t "std_logic"
+t "std_logic_vector"
+b "(2 DOWNTO 0)"
 o 7
 )
 )
@@ -4018,11 +4023,11 @@ stg "VerticalLayoutStrategy"
 f (Text
 uid 444,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "58000,21500,64100,22500"
+xt "58000,21500,67000,22400"
 st "binary_in : (2:0)"
-blo "58000,22300"
+blo "58000,22200"
 )
 )
 thePort (LogicalPort
@@ -4054,12 +4059,12 @@ stg "RightVerticalLayoutStrategy"
 f (Text
 uid 448,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "59000,26500,66000,27500"
+xt "56000,26500,66000,27400"
 st "one_hot_out : (7:0)"
 ju 2
-blo "66000,27300"
+blo "66000,27200"
 )
 )
 thePort (LogicalPort
@@ -4093,31 +4098,31 @@ textVec [
 *162 (Text
 uid 434,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "57200,23000,63400,24000"
+xt "57200,23000,64700,23900"
 st "alien_game_lib"
-blo "57200,23800"
+blo "57200,23700"
 tm "BdLibraryNameMgr"
 )
 *163 (Text
 uid 435,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "57200,24000,64600,25000"
+xt "57200,24000,65700,24900"
 st "c2_t3_bin2onehot"
-blo "57200,24800"
+blo "57200,24700"
 tm "CptNameMgr"
 )
 *164 (Text
 uid 436,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "57200,25000,59000,26000"
+xt "57200,25000,58700,25900"
 st "U_9"
-blo "57200,25800"
+blo "57200,25700"
 tm "InstanceNameMgr"
 )
 ]
@@ -4130,7 +4135,7 @@ uid 438,0
 text (MLText
 uid 439,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "42000,27000,42000,27000"
 )
@@ -4193,11 +4198,11 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 454,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "75000,26500,80100,27500"
+xt "75000,26500,81500,27400"
 st "x_coordinate"
-blo "75000,27300"
+blo "75000,27200"
 tm "WireNameMgr"
 )
 )
@@ -4215,11 +4220,10 @@ suid 2,0
 declText (MLText
 uid 554,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,2600,71500,3400"
-st "btn          : std_logic_vector(3 DOWNTO 0)
-"
+xt "48000,2400,70000,3300"
+st "btn          : std_logic_vector(3 DOWNTO 0)"
 )
 )
 *167 (Net
@@ -4234,11 +4238,10 @@ suid 3,0
 declText (MLText
 uid 556,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,5000,61500,5800"
-st "rst_n        : std_logic
-"
+xt "48000,5100,60500,6000"
+st "rst_n        : std_logic"
 )
 )
 *168 (Net
@@ -4254,11 +4257,10 @@ suid 4,0
 declText (MLText
 uid 558,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,5800,71500,6600"
-st "x_coordinate : std_logic_vector(7 DOWNTO 0)
-"
+xt "48000,6000,70000,6900"
+st "x_coordinate : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *169 (Net
@@ -4273,11 +4275,10 @@ suid 5,0
 declText (MLText
 uid 560,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,3400,61500,4200"
-st "clk          : std_logic
-"
+xt "48000,3300,60500,4200"
+st "clk          : std_logic"
 )
 )
 *170 (Net
@@ -4293,11 +4294,10 @@ suid 6,0
 declText (MLText
 uid 562,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,10000,75000,10800"
-st "SIGNAL dout1        : std_logic_vector(2 DOWNTO 0)
-"
+xt "48000,10500,73500,11400"
+st "SIGNAL dout1        : std_logic_vector(2 DOWNTO 0)"
 )
 )
 *171 (Net
@@ -4305,18 +4305,18 @@ uid 563,0
 lang 2
 decl (Decl
 n "din0"
-t "std_logic"
+t "std_logic_vector"
+b "(2 DOWNTO 0)"
 o 7
 suid 7,0
 )
 declText (MLText
 uid 564,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,7600,65000,8400"
-st "SIGNAL din0         : std_logic
-"
+xt "48000,7800,73500,8700"
+st "SIGNAL din0         : std_logic_vector(2 DOWNTO 0)"
 )
 )
 *172 (Net
@@ -4332,11 +4332,10 @@ suid 8,0
 declText (MLText
 uid 566,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,13200,75000,14000"
-st "SIGNAL y1           : std_logic_vector(2 downto 0)
-"
+xt "48000,14100,73500,15000"
+st "SIGNAL y1           : std_logic_vector(2 downto 0)"
 )
 )
 *173 (Net
@@ -4352,11 +4351,10 @@ suid 9,0
 declText (MLText
 uid 568,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,12400,75000,13200"
-st "SIGNAL y            : std_logic_vector(2 downto 0)
-"
+xt "48000,13200,73500,14100"
+st "SIGNAL y            : std_logic_vector(2 downto 0)"
 )
 )
 *174 (Net
@@ -4371,11 +4369,10 @@ suid 10,0
 declText (MLText
 uid 570,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,8400,65000,9200"
-st "SIGNAL din1         : std_logic
-"
+xt "48000,8700,64000,9600"
+st "SIGNAL din1         : std_logic"
 )
 )
 *175 (Net
@@ -4390,11 +4387,10 @@ suid 11,0
 declText (MLText
 uid 572,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,10800,65000,11600"
-st "SIGNAL sel          : std_logic
-"
+xt "48000,11400,64000,12300"
+st "SIGNAL sel          : std_logic"
 )
 )
 *176 (Net
@@ -4409,11 +4405,10 @@ suid 12,0
 declText (MLText
 uid 574,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,4200,61500,5000"
-st "enable       : std_logic
-"
+xt "48000,4200,60500,5100"
+st "enable       : std_logic"
 )
 )
 *177 (Net
@@ -4428,11 +4423,10 @@ suid 13,0
 declText (MLText
 uid 576,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,11600,65000,12400"
-st "SIGNAL sel1         : std_logic
-"
+xt "48000,12300,64000,13200"
+st "SIGNAL sel1         : std_logic"
 )
 )
 *178 (Net
@@ -4440,18 +4434,18 @@ uid 678,0
 lang 2
 decl (Decl
 n "dout"
-t "std_logic"
+t "std_logic_vector"
+b "(2 downto 0)"
 o 13
 suid 14,0
 )
 declText (MLText
 uid 679,0
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
-xt "48000,9200,65000,10000"
-st "SIGNAL dout         : std_logic
-"
+xt "48000,9600,73500,10500"
+st "SIGNAL dout         : std_logic_vector(2 downto 0)"
 )
 )
 *179 (Wire
@@ -4517,11 +4511,11 @@ f (Text
 uid 458,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "71000,26000,78700,27000"
+xt "71000,26000,81500,26900"
 st "x_coordinate : (7:0)"
-blo "71000,26800"
+blo "71000,26700"
 tm "WireNameMgr"
 )
 )
@@ -4557,11 +4551,11 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 466,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "35000,38000,41100,39000"
+xt "35000,38000,43000,38900"
 st "x_coordinate(5)"
-blo "35000,38800"
+blo "35000,38700"
 tm "WireNameMgr"
 )
 )
@@ -4597,11 +4591,11 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 470,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "35000,40000,41100,41000"
+xt "35000,40000,43000,40900"
 st "x_coordinate(0)"
-blo "35000,40800"
+blo "35000,40700"
 tm "WireNameMgr"
 )
 )
@@ -4668,11 +4662,11 @@ f (Text
 uid 476,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "4000,10000,8000,11000"
+xt "4000,10000,10000,10900"
 st "btn : (3:0)"
-blo "4000,10800"
+blo "4000,10700"
 tm "WireNameMgr"
 )
 )
@@ -4707,11 +4701,11 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 484,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "12000,11000,14400,12000"
+xt "12000,11000,15000,11900"
 st "btn(3)"
-blo "12000,11800"
+blo "12000,11700"
 tm "WireNameMgr"
 )
 )
@@ -4746,11 +4740,11 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 488,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "12000,9000,14400,10000"
+xt "12000,9000,15000,9900"
 st "btn(1)"
-blo "12000,9800"
+blo "12000,9700"
 tm "WireNameMgr"
 )
 )
@@ -4791,11 +4785,11 @@ f (Text
 uid 492,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "33000,20000,34800,21000"
+xt "33000,20000,35000,20900"
 st "din0"
-blo "33000,20800"
+blo "33000,20700"
 tm "WireNameMgr"
 )
 )
@@ -4849,11 +4843,11 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 504,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "53250,21000,55050,22000"
+xt "53250,21000,55250,21900"
 st "din0"
-blo "53250,21800"
+blo "53250,21700"
 tm "WireNameMgr"
 )
 )
@@ -4889,11 +4883,11 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 510,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "1250,26000,3050,27000"
+xt "1250,26000,3250,26900"
 st "din0"
-blo "1250,26800"
+blo "1250,26700"
 tm "WireNameMgr"
 )
 )
@@ -4928,11 +4922,11 @@ f (Text
 uid 518,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "43000,25000,44400,26000"
+xt "43000,25000,44500,25900"
 st "clk"
-blo "43000,25800"
+blo "43000,25700"
 tm "WireNameMgr"
 )
 )
@@ -4968,11 +4962,11 @@ f (Text
 uid 522,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "45000,17000,47100,18000"
+xt "45000,17000,47500,17900"
 st "rst_n"
-blo "45000,17800"
+blo "45000,17700"
 tm "WireNameMgr"
 )
 )
@@ -5008,11 +5002,11 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 526,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "17750,30000,21550,31000"
+xt "17750,30000,23250,30900"
 st "y1 : (2:0)"
-blo "17750,30800"
+blo "17750,30700"
 tm "WireNameMgr"
 )
 )
@@ -5049,11 +5043,11 @@ f (Text
 uid 530,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "29000,22000,31200,23000"
+xt "29000,22000,31500,22900"
 st "dout1"
-blo "29000,22800"
+blo "29000,22700"
 tm "WireNameMgr"
 )
 )
@@ -5089,11 +5083,11 @@ stg "STSignalDisplayStrategy"
 f (Text
 uid 534,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "17750,16000,20750,17000"
+xt "17750,16000,22250,16900"
 st "y : (2:0)"
-blo "17750,16800"
+blo "17750,16700"
 tm "WireNameMgr"
 )
 )
@@ -5130,11 +5124,11 @@ uid 538,0
 ro 270
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "35000,16600,36000,18000"
+xt "35000,16500,35900,18000"
 st "sel"
-blo "35800,18000"
+blo "35700,18000"
 tm "WireNameMgr"
 )
 )
@@ -5169,11 +5163,11 @@ f (Text
 uid 542,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "26000,10000,27800,11000"
+xt "26000,10000,28000,10900"
 st "din1"
-blo "26000,10800"
+blo "26000,10700"
 tm "WireNameMgr"
 )
 )
@@ -5207,11 +5201,11 @@ f (Text
 uid 546,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "24000,11000,26600,12000"
+xt "24000,11000,27000,11900"
 st "enable"
-blo "24000,11800"
+blo "24000,11700"
 tm "WireNameMgr"
 )
 )
@@ -5248,11 +5242,11 @@ uid 550,0
 ro 270
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "24000,26200,25000,28000"
+xt "24000,26000,24900,28000"
 st "sel1"
-blo "24800,28000"
+blo "24700,28000"
 tm "WireNameMgr"
 )
 )
@@ -5289,11 +5283,11 @@ f (Text
 uid 683,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "40000,21000,41800,22000"
+xt "40000,21000,42000,21900"
 st "dout"
-blo "40000,21800"
+blo "40000,21700"
 tm "WireNameMgr"
 )
 )
@@ -5318,18 +5312,18 @@ textVec [
 *204 (Text
 uid 42,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "29000,2000,34400,3000"
+xt "29000,2000,35500,2900"
 st "Package List"
-blo "29000,2800"
+blo "29000,2700"
 )
 *205 (MLText
 uid 43,0
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "29000,3000,39800,6000"
+xt "29000,3000,44000,5700"
 st "LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE ieee.std_logic_arith.all;"
@@ -5345,29 +5339,29 @@ textVec [
 uid 45,0
 va (VaSet
 isHidden 1
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "20000,0,28100,1000"
+xt "20000,0,30000,900"
 st "Compiler Directives"
-blo "20000,800"
+blo "20000,700"
 )
 *207 (Text
 uid 46,0
 va (VaSet
 isHidden 1
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "20000,1000,29600,2000"
+xt "20000,1000,31500,1900"
 st "Pre-module directives:"
-blo "20000,1800"
+blo "20000,1700"
 )
 *208 (MLText
 uid 47,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "20000,2000,27600,4000"
+xt "20000,2000,30100,3800"
 st "`resetall
 `timescale 1ns/10ps"
 tm "BdCompilerDirectivesTextMgr"
@@ -5376,17 +5370,17 @@ tm "BdCompilerDirectivesTextMgr"
 uid 48,0
 va (VaSet
 isHidden 1
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "20000,4000,30100,5000"
+xt "20000,4000,32000,4900"
 st "Post-module directives:"
-blo "20000,4800"
+blo "20000,4700"
 )
 *210 (MLText
 uid 49,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "20000,0,20000,0"
 tm "BdCompilerDirectivesTextMgr"
@@ -5395,17 +5389,17 @@ tm "BdCompilerDirectivesTextMgr"
 uid 50,0
 va (VaSet
 isHidden 1
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "20000,5000,29900,6000"
+xt "20000,5000,31500,5900"
 st "End-module directives:"
-blo "20000,5800"
+blo "20000,5700"
 )
 *212 (MLText
 uid 51,0
 va (VaSet
 isHidden 1
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "20000,6000,20000,6000"
 tm "BdCompilerDirectivesTextMgr"
@@ -5413,12 +5407,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "0,24,2561,1440"
-viewArea "-45540,-23867,120686,67902"
-cachedDiagramExtent "-2400,0,102810,99000"
+windowSize "-8,41,1544,834"
+viewArea "-3897,3513,84473,46734"
+cachedDiagramExtent "-2500,0,102810,98900"
 hasePageBreakOrigin 1
-pageBreakOrigin "-73000,0"
-lastUid 685,0
+pageBreakOrigin "-4000,0"
+lastUid 710,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -5432,9 +5426,9 @@ xt "0,0,15000,5000"
 text (MLText
 va (VaSet
 fg "0,0,32768"
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "200,200,2100,1200"
+xt "200,200,2200,1100"
 st "
 Text
 "
@@ -5460,9 +5454,9 @@ autoResize 1
 text (MLText
 va (VaSet
 fg "0,0,32768"
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "500,2150,1400,3150"
+xt "450,2150,1450,3050"
 st "
 Text
 "
@@ -5486,7 +5480,7 @@ title (TextAssociate
 ps "TopLeftStrategy"
 text (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "1000,1000,3800,2000"
 st "Panel0"
@@ -5511,7 +5505,7 @@ stg "VerticalLayoutStrategy"
 textVec [
 *213 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "2200,3500,5800,4500"
 st "<library>"
@@ -5520,7 +5514,7 @@ tm "BdLibraryNameMgr"
 )
 *214 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "2200,4500,5600,5500"
 st "<block>"
@@ -5529,7 +5523,7 @@ tm "BlkNameMgr"
 )
 *215 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "2200,5500,4000,6500"
 st "U_0"
@@ -5543,7 +5537,7 @@ ps "EdgeToEdgeStrategy"
 matrix (Matrix
 text (MLText
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "2200,13500,2200,13500"
 )
@@ -5580,7 +5574,7 @@ stg "VerticalLayoutStrategy"
 textVec [
 *216 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "550,3500,3450,4500"
 st "Library"
@@ -5588,7 +5582,7 @@ blo "550,4300"
 )
 *217 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "550,4500,7450,5500"
 st "MWComponent"
@@ -5596,7 +5590,7 @@ blo "550,5300"
 )
 *218 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "550,5500,2350,6500"
 st "U_0"
@@ -5610,7 +5604,7 @@ ps "EdgeToEdgeStrategy"
 matrix (Matrix
 text (MLText
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "-6450,1500,-6450,1500"
 )
@@ -5645,7 +5639,7 @@ stg "VerticalLayoutStrategy"
 textVec [
 *219 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "900,3500,3800,4500"
 st "Library"
@@ -5654,7 +5648,7 @@ tm "BdLibraryNameMgr"
 )
 *220 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "900,4500,7100,5500"
 st "SaComponent"
@@ -5663,7 +5657,7 @@ tm "CptNameMgr"
 )
 *221 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "900,5500,2700,6500"
 st "U_0"
@@ -5677,7 +5671,7 @@ ps "EdgeToEdgeStrategy"
 matrix (Matrix
 text (MLText
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "-6100,1500,-6100,1500"
 )
@@ -5717,7 +5711,7 @@ stg "VerticalLayoutStrategy"
 textVec [
 *222 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "500,3500,3400,4500"
 st "Library"
@@ -5725,7 +5719,7 @@ blo "500,4300"
 )
 *223 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "500,4500,7500,5500"
 st "VhdlComponent"
@@ -5733,7 +5727,7 @@ blo "500,5300"
 )
 *224 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "500,5500,2300,6500"
 st "U_0"
@@ -5747,7 +5741,7 @@ ps "EdgeToEdgeStrategy"
 matrix (Matrix
 text (MLText
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "-6500,1500,-6500,1500"
 )
@@ -5778,7 +5772,7 @@ stg "VerticalLayoutStrategy"
 textVec [
 *225 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "50,3500,2950,4500"
 st "Library"
@@ -5786,7 +5780,7 @@ blo "50,4300"
 )
 *226 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "50,4500,7950,5500"
 st "VerilogComponent"
@@ -5794,7 +5788,7 @@ blo "50,5300"
 )
 *227 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "50,5500,1850,6500"
 st "U_0"
@@ -5808,7 +5802,7 @@ ps "EdgeToEdgeStrategy"
 matrix (Matrix
 text (MLText
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "-6950,1500,-6950,1500"
 )
@@ -5835,7 +5829,7 @@ stg "VerticalLayoutStrategy"
 textVec [
 *228 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "3150,4000,4850,5000"
 st "eb1"
@@ -5844,7 +5838,7 @@ tm "HdlTextNameMgr"
 )
 *229 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "3150,5000,3950,6000"
 st "1"
@@ -5879,9 +5873,9 @@ xt "0,0,18000,5000"
 )
 text (MLText
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "200,200,2100,1200"
+xt "200,200,2200,1100"
 st "
 Text
 "
@@ -5903,7 +5897,7 @@ radius 1000
 )
 name (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "-500,-500,500,500"
 st "G"
@@ -5963,7 +5957,7 @@ ps "PortIoTextPlaceStrategy"
 stg "STSignalDisplayStrategy"
 f (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "-1375,-1000,-1375,-1000"
 ju 2
@@ -6002,7 +5996,7 @@ ps "PortIoTextPlaceStrategy"
 stg "STSignalDisplayStrategy"
 f (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "625,-1000,625,-1000"
 blo "625,-1000"
@@ -6038,7 +6032,7 @@ ps "PortIoTextPlaceStrategy"
 stg "STSignalDisplayStrategy"
 f (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "0,-375,0,-375"
 blo "0,-375"
@@ -6075,7 +6069,7 @@ ps "PortIoTextPlaceStrategy"
 stg "STSignalDisplayStrategy"
 f (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "0,-375,0,-375"
 blo "0,-375"
@@ -6105,7 +6099,7 @@ ps "ConnStartEndStrategy"
 stg "STSignalDisplayStrategy"
 f (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "0,0,1800,1000"
 st "sig0"
@@ -6138,7 +6132,7 @@ ps "ConnStartEndStrategy"
 stg "STSignalDisplayStrategy"
 f (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "0,0,2400,1000"
 st "dbus0"
@@ -6168,7 +6162,7 @@ ps "ConnStartEndStrategy"
 stg "VerticalLayoutStrategy"
 first (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "0,0,3000,1000"
 st "bundle0"
@@ -6177,9 +6171,9 @@ tm "BundleNameMgr"
 )
 second (MLText
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "0,1000,1000,2000"
+xt "0,1000,1000,1900"
 st "()"
 tm "BundleContentsMgr"
 )
@@ -6202,12 +6196,12 @@ ps "BottomRightOffsetStrategy"
 stg "VerticalLayoutStrategy"
 first (MLText
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 )
 second (MLText
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 tm "PortMapTextMgr"
 )
@@ -6228,9 +6222,9 @@ title (TextAssociate
 ps "TopLeftStrategy"
 text (MLText
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "0,-1100,12500,-100"
+xt "0,-1100,14500,-200"
 st "g0: FOR i IN 0 TO n GENERATE"
 tm "FrameTitleTextMgr"
 )
@@ -6246,7 +6240,7 @@ xt "50,50,1250,1450"
 )
 num (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "250,250,1050,1250"
 st "1"
@@ -6260,7 +6254,7 @@ stg "VerticalLayoutStrategy"
 textVec [
 *230 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "14100,20000,22000,21000"
 st "Frame Declarations"
@@ -6268,7 +6262,7 @@ blo "14100,20800"
 )
 *231 (MLText
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "14100,21000,14100,21000"
 tm "BdFrameDeclTextMgr"
@@ -6291,9 +6285,9 @@ title (TextAssociate
 ps "TopLeftStrategy"
 text (MLText
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
-xt "0,-1100,7300,-100"
+xt "0,-1100,9000,-200"
 st "b0: BLOCK (guard)"
 tm "FrameTitleTextMgr"
 )
@@ -6309,7 +6303,7 @@ xt "50,50,1250,1450"
 )
 num (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "250,250,1050,1250"
 st "1"
@@ -6323,7 +6317,7 @@ stg "VerticalLayoutStrategy"
 textVec [
 *232 (Text
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
 xt "14100,20000,22000,21000"
 st "Frame Declarations"
@@ -6331,7 +6325,7 @@ blo "14100,20800"
 )
 *233 (MLText
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "14100,21000,14100,21000"
 tm "BdFrameDeclTextMgr"
@@ -6355,7 +6349,7 @@ ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "0,750,1800,1750"
 st "Port"
@@ -6385,7 +6379,7 @@ ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
 va (VaSet
-font "arial,8,0"
+font "courier,8,0"
 )
 xt "0,750,1800,1750"
 st "Port"
@@ -6404,7 +6398,7 @@ o 0
 )
 defaultDeclText (MLText
 va (VaSet
-font "Courier New,8,0"
+font "courier,8,0"
 )
 )
 archDeclarativeBlock (BdArchDeclBlock
@@ -6413,36 +6407,36 @@ stg "BdArchDeclBlockLS"
 declLabel (Text
 uid 2,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "46000,600,51400,1600"
+xt "46000,600,52500,1500"
 st "Declarations"
-blo "46000,1400"
+blo "46000,1300"
 )
 portLabel (Text
 uid 3,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "46000,1600,48700,2600"
+xt "46000,1500,49000,2400"
 st "Ports:"
-blo "46000,2400"
+blo "46000,2200"
 )
 preUserLabel (Text
 uid 4,0
 va (VaSet
 isHidden 1
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "46000,600,49800,1600"
+xt "46000,600,50500,1500"
 st "Pre User:"
-blo "46000,1400"
+blo "46000,1300"
 )
 preUserText (MLText
 uid 5,0
 va (VaSet
 isHidden 1
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "46000,600,46000,600"
 tm "BdDeclarativeTextMgr"
@@ -6450,27 +6444,27 @@ tm "BdDeclarativeTextMgr"
 diagSignalLabel (Text
 uid 6,0
 va (VaSet
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "46000,6600,53100,7600"
+xt "46000,6900,54500,7800"
 st "Diagram Signals:"
-blo "46000,7400"
+blo "46000,7600"
 )
 postUserLabel (Text
 uid 7,0
 va (VaSet
 isHidden 1
-font "arial,8,1"
+font "courier,8,1"
 )
-xt "46000,600,50700,1600"
+xt "46000,600,51500,1500"
 st "Post User:"
-blo "46000,1400"
+blo "46000,1300"
 )
 postUserText (MLText
 uid 8,0
 va (VaSet
 isHidden 1
-font "Courier New,8,0"
+font "courier,8,0"
 )
 xt "46000,600,46000,600"
 tm "BdDeclarativeTextMgr"
@@ -6588,7 +6582,8 @@ lang 2
 m 4
 decl (Decl
 n "din0"
-t "std_logic"
+t "std_logic_vector"
+b "(2 DOWNTO 0)"
 o 7
 suid 7,0
 )
@@ -6680,7 +6675,8 @@ lang 2
 m 4
 decl (Decl
 n "dout"
-t "std_logic"
+t "std_logic_vector"
+b "(2 downto 0)"
 o 13
 suid 14,0
 )
@@ -6699,17 +6695,17 @@ sheetRow (SheetRow
 headerVa (MVa
 cellColor "49152,49152,49152"
 fontColor "0,0,0"
-font "Tahoma,10,0"
+font "courier,10,0"
 )
 cellVa (MVa
 cellColor "65535,65535,65535"
 fontColor "0,0,0"
-font "Tahoma,10,0"
+font "courier,10,0"
 )
 groupVa (MVa
 cellColor "39936,56832,65280"
 fontColor "0,0,0"
-font "Tahoma,10,0"
+font "courier,10,0"
 )
 emptyMRCItem *261 (MRCItem
 litem &234
@@ -6821,7 +6817,7 @@ sheetCol (SheetCol
 propVa (MVa
 cellColor "0,49152,49152"
 fontColor "0,0,0"
-font "Tahoma,10,0"
+font "courier,10,0"
 textAngle 90
 )
 uid 73,0
@@ -6935,17 +6931,17 @@ sheetRow (SheetRow
 headerVa (MVa
 cellColor "49152,49152,49152"
 fontColor "0,0,0"
-font "Tahoma,10,0"
+font "courier,10,0"
 )
 cellVa (MVa
 cellColor "65535,65535,65535"
 fontColor "0,0,0"
-font "Tahoma,10,0"
+font "courier,10,0"
 )
 groupVa (MVa
 cellColor "39936,56832,65280"
 fontColor "0,0,0"
-font "Tahoma,10,0"
+font "courier,10,0"
 )
 emptyMRCItem *299 (MRCItem
 litem &286
@@ -6979,7 +6975,7 @@ sheetCol (SheetCol
 propVa (MVa
 cellColor "0,49152,49152"
 fontColor "0,0,0"
-font "Tahoma,10,0"
+font "courier,10,0"
 textAngle 90
 )
 uid 101,0
