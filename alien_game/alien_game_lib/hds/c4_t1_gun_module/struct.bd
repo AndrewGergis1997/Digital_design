@@ -208,7 +208,7 @@ value "HTC219-714-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "17:15:29"
+value "17:28:34"
 )
 (vvPair
 variable "group"
@@ -316,7 +316,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "17:15:29"
+value "17:28:34"
 )
 (vvPair
 variable "unit"
@@ -1059,7 +1059,7 @@ optionalChildren [
 *26 (Property
 pclass "param"
 pname "value"
-pvalue "\"FF000000\""
+pvalue "x\"FF0000\""
 ptn "String"
 )
 ]
@@ -6046,12 +6046,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "0,106,2561,1440"
-viewArea "-58776,-25355,106867,60271"
+windowSize "-8,-8,2568,1408"
+viewArea "-58800,-15744,107908,75704"
 cachedDiagramExtent "-5600,-1000,65100,63000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-8000,-49000"
-lastUid 1852,0
+lastUid 1875,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
