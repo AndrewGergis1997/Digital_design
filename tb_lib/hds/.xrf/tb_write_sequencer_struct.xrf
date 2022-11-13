@@ -36,136 +36,148 @@ VIEW struct.bd
 GRAPHIC 309,0 41 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 241,0 42 0 
+GRAPHIC 748,0 42 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 574,0 43 0 
+GRAPHIC 740,0 43 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 265,0 44 0 
+GRAPHIC 241,0 44 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 253,0 45 0 
+GRAPHIC 574,0 45 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 217,0 46 0 
+GRAPHIC 265,0 46 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-NO_GRAPHIC 47
+GRAPHIC 253,0 47 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-NO_GRAPHIC 48
+GRAPHIC 217,0 48 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 50
 LIBRARY alien_game_lib
-DESIGN c5_t1_write_sequencer
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW fsm
-GRAPHIC 868,0 50 0 
-DESIGN c5_t1_write_sequencer
+GRAPHIC 1255,0 52 0 
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW symbol.sb
-GRAPHIC 117,0 52 0 
-DESIGN c5_t1_write_sequencer
+GRAPHIC 141,0 54 0 
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW symbol.sb
-GRAPHIC 159,0 53 0 
-DESIGN c5_t1_write_sequencer
+GRAPHIC 126,0 55 0 
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW symbol.sb
-GRAPHIC 164,0 54 0 
-DESIGN c5_t1_write_sequencer
+GRAPHIC 131,0 56 0 
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW symbol.sb
-GRAPHIC 112,0 55 0 
-DESIGN c5_t1_write_sequencer
+GRAPHIC 136,0 57 0 
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW symbol.sb
-GRAPHIC 189,0 56 0 
-DESIGN c5_t1_write_sequencer
+GRAPHIC 166,0 58 0 
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW symbol.sb
-GRAPHIC 184,0 57 0 
-DESIGN c5_t1_write_sequencer
+GRAPHIC 161,0 59 0 
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW symbol.sb
-GRAPHIC 174,0 58 0 
-DESIGN c5_t1_write_sequencer
+GRAPHIC 151,0 60 0 
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW symbol.sb
-GRAPHIC 169,0 59 0 
-DESIGN c5_t1_write_sequencer
+GRAPHIC 146,0 61 0 
+DESIGN c5_t1_write_sequencer_stare_diagram
 VIEW symbol.sb
-GRAPHIC 179,0 60 0 
+GRAPHIC 156,0 62 0 
 LIBRARY tb_lib
 DESIGN wr_seq_tester
 VIEW testbench
-GRAPHIC 606,0 63 0 
-DESIGN tb_write_sequencer
-VIEW struct.bd
-NO_GRAPHIC 72
-LIBRARY tb_lib
+GRAPHIC 606,0 65 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
 NO_GRAPHIC 74
+LIBRARY tb_lib
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 868,0 77 0 
+NO_GRAPHIC 76
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 606,0 78 0 
+GRAPHIC 1255,0 79 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-NO_GRAPHIC 81
+GRAPHIC 606,0 80 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 369,0 83 0 
+NO_GRAPHIC 83
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 350,0 86 0 
+GRAPHIC 369,0 85 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 556,0 89 0 
+GRAPHIC 350,0 88 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-NO_GRAPHIC 92
+GRAPHIC 556,0 91 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 868,0 94 0 
+NO_GRAPHIC 94
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 381,0 96 0 
+GRAPHIC 1255,0 96 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 231,0 97 0 
+GRAPHIC 381,0 98 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 209,0 98 0 
+GRAPHIC 231,0 99 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 199,0 99 0 
+GRAPHIC 209,0 100 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 301,0 100 0 
+GRAPHIC 199,0 101 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 257,0 101 0 
+GRAPHIC 301,0 102 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 245,0 104 0 
+GRAPHIC 257,0 103 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 606,0 106 0 
+GRAPHIC 750,0 104 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 301,0 108 0 
+GRAPHIC 742,0 105 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 257,0 109 0 
+GRAPHIC 245,0 106 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 245,0 110 0 
+GRAPHIC 606,0 108 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 231,0 111 0 
+GRAPHIC 301,0 110 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 209,0 112 0 
+GRAPHIC 257,0 111 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 199,0 113 0 
+GRAPHIC 245,0 112 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-GRAPHIC 568,0 114 0 
+GRAPHIC 231,0 113 0 
 DESIGN tb_write_sequencer
 VIEW struct.bd
-NO_GRAPHIC 117
+GRAPHIC 209,0 114 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 199,0 115 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+GRAPHIC 568,0 116 0 
+DESIGN tb_write_sequencer
+VIEW struct.bd
+NO_GRAPHIC 119

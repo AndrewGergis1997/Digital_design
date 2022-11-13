@@ -10,3 +10,5 @@ ARCHITECTURES list {
   }
  }
 }
+BLACK_BOX_DA atom 0
+BLACK_BOX_DA_JUSTIFICATION atom {}

@@ -1,2 +1,2 @@
-DEFAULT_ARCHITECTURE atom fsm
 DEFAULT_FILE atom c5_t1_write_sequencer/fsm.sm
+DEFAULT_ARCHITECTURE atom fsm
