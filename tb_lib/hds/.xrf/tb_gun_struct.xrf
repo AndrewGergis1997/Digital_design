@@ -58,31 +58,31 @@ NO_GRAPHIC 48
 LIBRARY alien_game_lib
 DESIGN c4_t1_gun_module
 VIEW struct
-GRAPHIC 953,0 50 0 
+GRAPHIC 1030,0 50 0 
 DESIGN c4_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 124,0 52 0 
+GRAPHIC 110,0 52 0 
 DESIGN c4_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 134,0 53 0 
+GRAPHIC 162,0 53 0 
 DESIGN c4_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 129,0 54 0 
+GRAPHIC 157,0 54 0 
 DESIGN c4_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 159,0 55 0 
+GRAPHIC 152,0 55 0 
 DESIGN c4_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 139,0 56 0 
+GRAPHIC 167,0 56 0 
 DESIGN c4_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 154,0 57 0 
+GRAPHIC 182,0 57 0 
 DESIGN c4_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 144,0 58 0 
+GRAPHIC 172,0 58 0 
 DESIGN c4_t1_gun_module
 VIEW symbol.sb
-GRAPHIC 149,0 59 0 
+GRAPHIC 177,0 59 0 
 LIBRARY tb_lib
 DESIGN gun_test_block
 VIEW testbench
@@ -96,7 +96,7 @@ VIEW struct.bd
 NO_GRAPHIC 75
 DESIGN tb_gun
 VIEW struct.bd
-GRAPHIC 953,0 78 0 
+GRAPHIC 1030,0 78 0 
 DESIGN tb_gun
 VIEW struct.bd
 GRAPHIC 247,0 79 0 
@@ -111,7 +111,7 @@ VIEW struct.bd
 NO_GRAPHIC 87
 DESIGN tb_gun
 VIEW struct.bd
-GRAPHIC 953,0 89 0 
+GRAPHIC 1030,0 89 0 
 DESIGN tb_gun
 VIEW struct.bd
 GRAPHIC 131,0 91 0 
