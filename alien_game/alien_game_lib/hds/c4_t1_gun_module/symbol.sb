@@ -531,19 +531,19 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_gun_modu
 )
 (vvPair
 variable "date"
-value "13.11.2022"
+value "17.11.2022"
 )
 (vvPair
 variable "day"
-value "su"
+value "to"
 )
 (vvPair
 variable "day_long"
-value "sunnuntai"
+value "torstai"
 )
 (vvPair
 variable "dd"
-value "13"
+value "17"
 )
 (vvPair
 variable "entity_name"
@@ -571,7 +571,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "13.11.2022"
+value "17.11.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -583,7 +583,7 @@ value "HTC219-712-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "21:28:17"
+value "22:09:24"
 )
 (vvPair
 variable "group"
@@ -691,7 +691,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "21:28:17"
+value "22:09:24"
 )
 (vvPair
 variable "unit"
@@ -1794,6 +1794,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 347,0
+lastUid 416,0
 activeModelName "Symbol:CDM"
 )

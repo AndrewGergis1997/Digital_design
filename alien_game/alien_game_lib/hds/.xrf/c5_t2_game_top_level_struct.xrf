@@ -1,3 +1,456 @@
 DESIGN c5_t2_game_top_level
-VIEW struct
+VIEW symbol.sb
 NO_GRAPHIC 0
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 126,0 14 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 131,0 15 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 136,0 16 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 141,0 17 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 156,0 18 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 146,0 19 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 161,0 20 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 151,0 21 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 166,0 22 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 1,0 25 0 
+DESIGN c5_t2_game_top_level
+VIEW symbol.sb
+GRAPHIC 1,0 26 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 29
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 41,0 38 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 41
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 0,0 45 2 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 814,0 50 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 820,0 51 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 808,0 52 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 784,0 53 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 672,0 54 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 1269,0 55 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 1238,0 56 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 1300,0 57 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 772,0 58 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 961,0 59 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 967,0 60 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 690,0 61 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 714,0 62 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 802,0 63 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 702,0 64 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 732,0 65 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 445,0 66 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 708,0 67 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 790,0 68 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 796,0 69 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 778,0 70 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 71
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 72
+LIBRARY alien_game_lib
+DESIGN c3_hit_defeated
+VIEW struct
+GRAPHIC 662,0 74 0 
+DESIGN c3_hit_defeated
+VIEW symbol.sb
+GRAPHIC 116,0 76 0 
+DESIGN c3_hit_defeated
+VIEW symbol.sb
+GRAPHIC 126,0 77 0 
+DESIGN c3_hit_defeated
+VIEW symbol.sb
+GRAPHIC 253,0 78 0 
+DESIGN c3_hit_defeated
+VIEW symbol.sb
+GRAPHIC 131,0 79 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 323,0 82 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 124,0 84 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 134,0 85 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 129,0 86 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 189,0 87 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 154,0 88 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 149,0 89 0 
+DESIGN c3_t1_basic_alien
+VIEW symbol.sb
+GRAPHIC 144,0 90 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 285,0 93 0 
+DESIGN c4_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 110,0 95 0 
+DESIGN c4_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 162,0 96 0 
+DESIGN c4_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 157,0 97 0 
+DESIGN c4_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 152,0 98 0 
+DESIGN c4_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 167,0 99 0 
+DESIGN c4_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 182,0 100 0 
+DESIGN c4_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 172,0 101 0 
+DESIGN c4_t1_gun_module
+VIEW symbol.sb
+GRAPHIC 177,0 102 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 369,0 105 0 
+DESIGN c5_t1_write_sequencer
+VIEW symbol.sb
+GRAPHIC 141,0 107 0 
+DESIGN c5_t1_write_sequencer
+VIEW symbol.sb
+GRAPHIC 126,0 108 0 
+DESIGN c5_t1_write_sequencer
+VIEW symbol.sb
+GRAPHIC 131,0 109 0 
+DESIGN c5_t1_write_sequencer
+VIEW symbol.sb
+GRAPHIC 136,0 110 0 
+DESIGN c5_t1_write_sequencer
+VIEW symbol.sb
+GRAPHIC 166,0 111 0 
+DESIGN c5_t1_write_sequencer
+VIEW symbol.sb
+GRAPHIC 161,0 112 0 
+DESIGN c5_t1_write_sequencer
+VIEW symbol.sb
+GRAPHIC 151,0 113 0 
+DESIGN c5_t1_write_sequencer
+VIEW symbol.sb
+GRAPHIC 146,0 114 0 
+DESIGN c5_t1_write_sequencer
+VIEW symbol.sb
+GRAPHIC 156,0 115 0 
+LIBRARY pre_made
+DESIGN display_controller
+VIEW struct
+GRAPHIC 435,0 118 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 166,0 120 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1054,0 121 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1069,0 122 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 176,0 123 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 196,0 124 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1101,0 125 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 1106,0 126 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 136,0 127 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 151,0 128 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 141,0 129 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 156,0 130 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 146,0 131 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 161,0 132 0 
+DESIGN display_controller
+VIEW symbol.sb
+GRAPHIC 259,0 133 0 
+LIBRARY alien_game_lib
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 136
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 662,0 139 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 323,0 140 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 285,0 141 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 369,0 142 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 435,0 143 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 146
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 932,0 148 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 942,0 151 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 1170,0 154 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 1250,0 157 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 1281,0 160 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 531,0 163 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 544,0 175 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 595,0 187 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 199
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 662,0 201 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 678,0 203 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 969,0 204 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 684,0 205 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 674,0 206 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 323,0 208 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 692,0 210 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 147,0 211 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 963,0 212 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 161,0 213 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 816,0 214 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 822,0 215 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 810,0 216 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 285,0 218 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 133,0 220 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 469,0 221 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 696,0 222 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 704,0 223 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 481,0 224 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 804,0 225 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 792,0 226 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 798,0 227 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 369,0 229 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 674,0 231 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 463,0 232 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 475,0 233 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 447,0 234 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 692,0 235 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 716,0 236 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 704,0 237 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 734,0 238 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 710,0 239 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 435,0 241 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 463,0 243 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 786,0 244 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 716,0 245 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 487,0 246 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 710,0 247 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 774,0 248 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 780,0 249 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 175,0 250 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 217,0 251 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 189,0 252 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 231,0 253 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 203,0 254 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 245,0 255 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+GRAPHIC 447,0 256 0 
+DESIGN c5_t2_game_top_level
+VIEW struct.bd
+NO_GRAPHIC 259

@@ -156,19 +156,19 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_gun_modu
 )
 (vvPair
 variable "date"
-value "13.11.2022"
+value "17.11.2022"
 )
 (vvPair
 variable "day"
-value "su"
+value "to"
 )
 (vvPair
 variable "day_long"
-value "sunnuntai"
+value "torstai"
 )
 (vvPair
 variable "dd"
-value "13"
+value "17"
 )
 (vvPair
 variable "entity_name"
@@ -196,7 +196,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "13.11.2022"
+value "17.11.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -208,7 +208,7 @@ value "HTC219-712-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "21:28:17"
+value "22:09:24"
 )
 (vvPair
 variable "group"
@@ -316,7 +316,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "21:28:17"
+value "22:09:24"
 )
 (vvPair
 variable "unit"
@@ -6033,12 +6033,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "-8,-8,2568,1408"
-viewArea "-16416,-13428,118183,60406"
+windowSize "0,24,2561,1440"
+viewArea "-16400,-13400,118914,61304"
 cachedDiagramExtent "-8600,-17000,249041,209544"
 hasePageBreakOrigin 1
-pageBreakOrigin "-5000,0"
-lastUid 760,0
+pageBreakOrigin "-78000,-49000"
+lastUid 829,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

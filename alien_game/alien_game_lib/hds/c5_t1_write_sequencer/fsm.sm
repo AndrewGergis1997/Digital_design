@@ -74,19 +74,19 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c5_t1_write_se
 )
 (vvPair
 variable "date"
-value "13.11.2022"
+value "17.11.2022"
 )
 (vvPair
 variable "day"
-value "su"
+value "to"
 )
 (vvPair
 variable "day_long"
-value "sunnuntai"
+value "torstai"
 )
 (vvPair
 variable "dd"
-value "13"
+value "17"
 )
 (vvPair
 variable "entity_name"
@@ -114,7 +114,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "13.11.2022"
+value "17.11.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -126,7 +126,7 @@ value "HTC219-712-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "20:37:59"
+value "21:30:29"
 )
 (vvPair
 variable "group"
@@ -234,7 +234,7 @@ value "fsm"
 )
 (vvPair
 variable "time"
-value "20:37:59"
+value "21:30:29"
 )
 (vvPair
 variable "unit"
@@ -3880,7 +3880,7 @@ tm "SmCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "0,0,2561,1416"
+windowSize "0,24,2561,1440"
 viewArea "-6000,-13000,129314,61704"
 cachedDiagramExtent "-2887,-3712,115224,57311"
 hasePageBreakOrigin 1
@@ -4271,7 +4271,7 @@ stateOrder [
 name "csm"
 )
 ]
-lastUid 549,0
+lastUid 578,0
 commonDM (CommonDM
 ldm (LogicalDM
 emptyRow *73 (LEmptyRow
@@ -4335,7 +4335,7 @@ lang 2
 decl (Decl
 n "clk"
 t "std_logic"
-o 1
+o 2
 )
 )
 uid 156,0
@@ -4348,7 +4348,7 @@ lang 2
 decl (Decl
 n "rst"
 t "std_logic"
-o 2
+o 3
 )
 )
 uid 158,0
@@ -4361,7 +4361,7 @@ lang 2
 decl (Decl
 n "write_ready"
 t "std_logic"
-o 3
+o 4
 )
 )
 uid 160,0
@@ -4372,7 +4372,7 @@ lang 2
 decl (Decl
 n "alien_defeated"
 t "std_logic"
-o 4
+o 1
 )
 )
 uid 162,0
@@ -4385,7 +4385,7 @@ decl (Decl
 n "module_select"
 t "std_logic_vector"
 b "(1 DOWNTO 0)"
-o 5
+o 8
 )
 )
 uid 164,0
@@ -4399,7 +4399,7 @@ decl (Decl
 n "gun_px_idx"
 t "std_logic_vector"
 b "(1 DOWNTO 0)"
-o 6
+o 7
 )
 )
 uid 166,0
@@ -4412,7 +4412,7 @@ m 1
 decl (Decl
 n "write"
 t "std_logic"
-o 7
+o 9
 )
 )
 uid 168,0
@@ -4425,7 +4425,7 @@ m 1
 decl (Decl
 n "frame_done"
 t "std_logic"
-o 8
+o 6
 )
 )
 uid 170,0
@@ -4438,7 +4438,7 @@ m 1
 decl (Decl
 n "enable"
 t "std_logic"
-o 9
+o 5
 )
 )
 uid 172,0
