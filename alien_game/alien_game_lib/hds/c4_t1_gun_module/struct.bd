@@ -156,19 +156,19 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_gun_modu
 )
 (vvPair
 variable "date"
-value "17.11.2022"
+value "22.11.2022"
 )
 (vvPair
 variable "day"
-value "to"
+value "ti"
 )
 (vvPair
 variable "day_long"
-value "torstai"
+value "tiistai"
 )
 (vvPair
 variable "dd"
-value "17"
+value "22"
 )
 (vvPair
 variable "entity_name"
@@ -196,7 +196,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "17.11.2022"
+value "22.11.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -204,11 +204,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-712-SPC"
+value "HTC219-722-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "22:09:24"
+value "16:58:09"
 )
 (vvPair
 variable "group"
@@ -216,7 +216,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-712-SPC"
+value "HTC219-722-SPC"
 )
 (vvPair
 variable "language"
@@ -316,7 +316,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "22:09:24"
+value "16:58:09"
 )
 (vvPair
 variable "unit"
@@ -409,7 +409,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-15000,62500,-14200"
-st "btn        : std_logic_vector(3 DOWNTO 0)"
+st "btn        : std_logic_vector(3 DOWNTO 0)
+"
 )
 )
 *3 (Grouping
@@ -799,7 +800,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-12600,62500,-11800"
-st "gun_px_idx : std_logic_vector(1 DOWNTO 0)"
+st "gun_px_idx : std_logic_vector(1 DOWNTO 0)
+"
 )
 )
 *16 (PortIoIn
@@ -863,7 +865,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-13400,52500,-12600"
-st "enable     : std_logic"
+st "enable     : std_logic
+"
 )
 )
 *18 (PortIoIn
@@ -927,7 +930,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-14200,52500,-13400"
-st "clk        : std_logic"
+st "clk        : std_logic
+"
 )
 )
 *20 (PortIoIn
@@ -991,7 +995,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-11800,52500,-11000"
-st "rst_n      : std_logic"
+st "rst_n      : std_logic
+"
 )
 )
 *22 (PortIoOut
@@ -1055,7 +1060,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-10200,62500,-9400"
-st "x_coord    : std_logic_vector(7 DOWNTO 0)"
+st "x_coord    : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *24 (PortIoOut
@@ -1119,7 +1125,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-9400,62500,-8600"
-st "y_coord    : std_logic_vector(7 DOWNTO 0)"
+st "y_coord    : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *26 (PortIoOut
@@ -1183,7 +1190,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-11000,63000,-10200"
-st "gun_color  : std_logic_vector(23 DOWNTO 0)"
+st "gun_color  : std_logic_vector(23 DOWNTO 0)
+"
 )
 )
 *28 (SaComponent
@@ -1199,7 +1207,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,9625,20000,10375"
+xt "19250,17625,20000,18375"
 )
 tg (CPTG
 uid 239,0
@@ -1209,9 +1217,9 @@ f (Text
 uid 240,0
 va (VaSet
 )
-xt "21000,9500,25000,10500"
+xt "21000,17500,25000,18500"
 st "btn : (3:0)"
-blo "21000,10300"
+blo "21000,18300"
 )
 )
 thePort (LogicalPort
@@ -1235,7 +1243,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,10625,20000,11375"
+xt "19250,18625,20000,19375"
 )
 tg (CPTG
 uid 243,0
@@ -1245,9 +1253,9 @@ f (Text
 uid 244,0
 va (VaSet
 )
-xt "21000,10500,23100,11500"
+xt "21000,18500,23100,19500"
 st "rst_n"
-blo "21000,11300"
+blo "21000,19300"
 )
 )
 thePort (LogicalPort
@@ -1270,7 +1278,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "34000,9625,34750,10375"
+xt "34000,17625,34750,18375"
 )
 tg (CPTG
 uid 247,0
@@ -1280,10 +1288,10 @@ f (Text
 uid 248,0
 va (VaSet
 )
-xt "25300,9500,33000,10500"
+xt "25300,17500,33000,18500"
 st "x_coordinate : (7:0)"
 ju 2
-blo "33000,10300"
+blo "33000,18300"
 )
 )
 thePort (LogicalPort
@@ -1308,7 +1316,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,11625,20000,12375"
+xt "19250,19625,20000,20375"
 )
 tg (CPTG
 uid 251,0
@@ -1318,9 +1326,9 @@ f (Text
 uid 252,0
 va (VaSet
 )
-xt "21000,11500,22400,12500"
+xt "21000,19500,22400,20500"
 st "clk"
-blo "21000,12300"
+blo "21000,20300"
 )
 )
 thePort (LogicalPort
@@ -1343,7 +1351,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,12625,20000,13375"
+xt "19250,20625,20000,21375"
 )
 tg (CPTG
 uid 255,0
@@ -1353,9 +1361,9 @@ f (Text
 uid 256,0
 va (VaSet
 )
-xt "21000,12500,23600,13500"
+xt "21000,20500,23600,21500"
 st "enable"
-blo "21000,13300"
+blo "21000,21300"
 )
 )
 thePort (LogicalPort
@@ -1377,7 +1385,7 @@ fg "0,65535,0"
 lineColor "0,32896,0"
 lineWidth 2
 )
-xt "20000,9000,34000,16000"
+xt "20000,17000,34000,24000"
 )
 oxt "15000,6000,33000,26000"
 ttg (MlTextGroup
@@ -1390,9 +1398,9 @@ uid 260,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "25200,12000,31400,13000"
+xt "25200,20000,31400,21000"
 st "alien_game_lib"
-blo "25200,12800"
+blo "25200,20800"
 tm "BdLibraryNameMgr"
 )
 *35 (Text
@@ -1400,9 +1408,9 @@ uid 261,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "25200,13000,29000,14000"
+xt "25200,21000,29000,22000"
 st "c4_t1_m2"
-blo "25200,13800"
+blo "25200,21800"
 tm "CptNameMgr"
 )
 *36 (Text
@@ -1410,9 +1418,9 @@ uid 262,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "25200,14000,27000,15000"
+xt "25200,22000,27000,23000"
 st "U_0"
-blo "25200,14800"
+blo "25200,22800"
 tm "InstanceNameMgr"
 )
 ]
@@ -1426,7 +1434,7 @@ text (MLText
 uid 265,0
 va (VaSet
 )
-xt "5000,15000,5000,15000"
+xt "5000,23000,5000,23000"
 )
 header ""
 )
@@ -1440,7 +1448,7 @@ va (VaSet
 vasetType 1
 fg "49152,49152,49152"
 )
-xt "20250,14250,21750,15750"
+xt "20250,22250,21750,23750"
 iconName "BlockDiagram.png"
 iconMaskName "BlockDiagram.msk"
 ftype 1
@@ -1464,7 +1472,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,25625,20000,26375"
+xt "19250,9625,20000,10375"
 )
 tg (CPTG
 uid 269,0
@@ -1474,9 +1482,9 @@ f (Text
 uid 270,0
 va (VaSet
 )
-xt "21000,25500,25000,26500"
+xt "21000,9500,25000,10500"
 st "btn : (3:0)"
-blo "21000,26300"
+blo "21000,10300"
 )
 )
 thePort (LogicalPort
@@ -1500,7 +1508,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,26625,20000,27375"
+xt "19250,10625,20000,11375"
 )
 tg (CPTG
 uid 273,0
@@ -1510,9 +1518,9 @@ f (Text
 uid 274,0
 va (VaSet
 )
-xt "21000,26500,23100,27500"
+xt "21000,10500,23100,11500"
 st "rst_n"
-blo "21000,27300"
+blo "21000,11300"
 )
 )
 thePort (LogicalPort
@@ -1535,7 +1543,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "34000,25625,34750,26375"
+xt "34000,9625,34750,10375"
 )
 tg (CPTG
 uid 277,0
@@ -1545,10 +1553,10 @@ f (Text
 uid 278,0
 va (VaSet
 )
-xt "25300,25500,33000,26500"
+xt "25300,9500,33000,10500"
 st "x_coordinate : (7:0)"
 ju 2
-blo "33000,26300"
+blo "33000,10300"
 )
 )
 thePort (LogicalPort
@@ -1573,7 +1581,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,27625,20000,28375"
+xt "19250,11625,20000,12375"
 )
 tg (CPTG
 uid 281,0
@@ -1583,9 +1591,9 @@ f (Text
 uid 282,0
 va (VaSet
 )
-xt "21000,27500,22400,28500"
+xt "21000,11500,22400,12500"
 st "clk"
-blo "21000,28300"
+blo "21000,12300"
 )
 )
 thePort (LogicalPort
@@ -1608,7 +1616,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,28625,20000,29375"
+xt "19250,12625,20000,13375"
 )
 tg (CPTG
 uid 285,0
@@ -1618,9 +1626,9 @@ f (Text
 uid 286,0
 va (VaSet
 )
-xt "21000,28500,23600,29500"
+xt "21000,12500,23600,13500"
 st "enable"
-blo "21000,29300"
+blo "21000,13300"
 )
 )
 thePort (LogicalPort
@@ -1642,7 +1650,7 @@ fg "0,65535,0"
 lineColor "0,32896,0"
 lineWidth 2
 )
-xt "20000,25000,34000,32000"
+xt "20000,9000,34000,16000"
 )
 oxt "15000,6000,33000,26000"
 ttg (MlTextGroup
@@ -1655,9 +1663,9 @@ uid 290,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "25200,27000,31400,28000"
+xt "25200,11000,31400,12000"
 st "alien_game_lib"
-blo "25200,27800"
+blo "25200,11800"
 tm "BdLibraryNameMgr"
 )
 *44 (Text
@@ -1665,9 +1673,9 @@ uid 291,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "25200,28000,29000,29000"
+xt "25200,12000,29000,13000"
 st "c4_t1_m1"
-blo "25200,28800"
+blo "25200,12800"
 tm "CptNameMgr"
 )
 *45 (Text
@@ -1675,9 +1683,9 @@ uid 292,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "25200,29000,27000,30000"
+xt "25200,13000,27000,14000"
 st "U_1"
-blo "25200,29800"
+blo "25200,13800"
 tm "InstanceNameMgr"
 )
 ]
@@ -1691,7 +1699,7 @@ text (MLText
 uid 295,0
 va (VaSet
 )
-xt "5000,31000,5000,31000"
+xt "5000,15000,5000,15000"
 )
 header ""
 )
@@ -1705,7 +1713,7 @@ va (VaSet
 vasetType 1
 fg "49152,49152,49152"
 )
-xt "20250,30250,21750,31750"
+xt "20250,14250,21750,15750"
 iconName "BlockDiagram.png"
 iconMaskName "BlockDiagram.msk"
 ftype 1
@@ -1729,7 +1737,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,17625,20000,18375"
+xt "19250,25625,20000,26375"
 )
 tg (CPTG
 uid 299,0
@@ -1740,9 +1748,9 @@ uid 300,0
 va (VaSet
 font "arial,8,0"
 )
-xt "21000,17500,25000,18500"
+xt "21000,25500,25000,26500"
 st "btn : (3:0)"
-blo "21000,18300"
+blo "21000,26300"
 )
 )
 thePort (LogicalPort
@@ -1766,7 +1774,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,18625,20000,19375"
+xt "19250,26625,20000,27375"
 )
 tg (CPTG
 uid 303,0
@@ -1777,9 +1785,9 @@ uid 304,0
 va (VaSet
 font "arial,8,0"
 )
-xt "21000,18500,23100,19500"
+xt "21000,26500,23100,27500"
 st "rst_n"
-blo "21000,19300"
+blo "21000,27300"
 )
 )
 thePort (LogicalPort
@@ -1802,7 +1810,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "34000,17625,34750,18375"
+xt "34000,25625,34750,26375"
 )
 tg (CPTG
 uid 307,0
@@ -1813,10 +1821,10 @@ uid 308,0
 va (VaSet
 font "arial,8,0"
 )
-xt "25300,17500,33000,18500"
+xt "25300,25500,33000,26500"
 st "x_coordinate : (7:0)"
 ju 2
-blo "33000,18300"
+blo "33000,26300"
 )
 )
 thePort (LogicalPort
@@ -1841,7 +1849,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,19625,20000,20375"
+xt "19250,27625,20000,28375"
 )
 tg (CPTG
 uid 311,0
@@ -1852,9 +1860,9 @@ uid 312,0
 va (VaSet
 font "arial,8,0"
 )
-xt "21000,19500,22400,20500"
+xt "21000,27500,22400,28500"
 st "clk"
-blo "21000,20300"
+blo "21000,28300"
 )
 )
 thePort (LogicalPort
@@ -1877,7 +1885,7 @@ va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "19250,20625,20000,21375"
+xt "19250,28625,20000,29375"
 )
 tg (CPTG
 uid 315,0
@@ -1888,9 +1896,9 @@ uid 316,0
 va (VaSet
 font "arial,8,0"
 )
-xt "21000,20500,23600,21500"
+xt "21000,28500,23600,29500"
 st "enable"
-blo "21000,21300"
+blo "21000,29300"
 )
 )
 thePort (LogicalPort
@@ -1912,7 +1920,7 @@ fg "0,65535,0"
 lineColor "0,32896,0"
 lineWidth 2
 )
-xt "20000,17000,34000,24000"
+xt "20000,25000,34000,32000"
 )
 oxt "15000,6000,33000,26000"
 ttg (MlTextGroup
@@ -1925,9 +1933,9 @@ uid 320,0
 va (VaSet
 font "arial,8,1"
 )
-xt "25200,20000,31400,21000"
+xt "25200,28000,31400,29000"
 st "alien_game_lib"
-blo "25200,20800"
+blo "25200,28800"
 tm "BdLibraryNameMgr"
 )
 *53 (Text
@@ -1935,9 +1943,9 @@ uid 321,0
 va (VaSet
 font "arial,8,1"
 )
-xt "25200,21000,29000,22000"
+xt "25200,29000,29000,30000"
 st "c4_t1_m3"
-blo "25200,21800"
+blo "25200,29800"
 tm "CptNameMgr"
 )
 *54 (Text
@@ -1945,9 +1953,9 @@ uid 322,0
 va (VaSet
 font "arial,8,1"
 )
-xt "25200,22000,27000,23000"
+xt "25200,30000,27000,31000"
 st "U_2"
-blo "25200,22800"
+blo "25200,30800"
 tm "InstanceNameMgr"
 )
 ]
@@ -1962,7 +1970,7 @@ uid 325,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "5000,23000,5000,23000"
+xt "5000,31000,5000,31000"
 )
 header ""
 )
@@ -1976,7 +1984,7 @@ va (VaSet
 vasetType 1
 fg "49152,49152,49152"
 )
-xt "20250,22250,21750,23750"
+xt "20250,30250,21750,31750"
 iconName "BlockDiagram.png"
 iconMaskName "BlockDiagram.msk"
 ftype 1
@@ -4027,7 +4035,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-4400,56000,-3600"
-st "SIGNAL dout       : std_logic"
+st "SIGNAL dout       : std_logic
+"
 )
 )
 *138 (Net
@@ -4046,7 +4055,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-5200,66000,-4400"
-st "SIGNAL din3       : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL din3       : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *139 (Net
@@ -4065,7 +4075,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-6000,66000,-5200"
-st "SIGNAL din2       : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL din2       : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *140 (Net
@@ -4084,7 +4095,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-6800,66000,-6000"
-st "SIGNAL din1       : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL din1       : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *141 (Net
@@ -4103,7 +4115,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-7600,66000,-6800"
-st "SIGNAL din0       : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL din0       : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *142 (MWC
@@ -4531,7 +4544,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-3600,66000,-2800"
-st "SIGNAL dout1      : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL dout1      : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *161 (Net
@@ -4550,7 +4564,8 @@ va (VaSet
 font "Courier New,8,0"
 )
 xt "40000,-2800,66000,-2000"
-st "SIGNAL dout2      : std_logic_vector(7 DOWNTO 0)"
+st "SIGNAL dout2      : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *162 (Wire
@@ -4584,7 +4599,7 @@ pts [
 ]
 )
 start &1
-end &29
+end &38
 sat 32
 eat 32
 sty 1
@@ -4793,7 +4808,8 @@ pts [
 ]
 )
 start &18
-end &32
+end &41
+es 0
 sat 32
 eat 32
 stc 0
@@ -4848,7 +4864,8 @@ pts [
 ]
 )
 start &20
-end &30
+end &39
+es 0
 sat 32
 eat 32
 stc 0
@@ -5093,7 +5110,7 @@ pts [
 ]
 )
 start &91
-end &40
+end &49
 sat 32
 eat 32
 sty 1
@@ -5136,7 +5153,8 @@ pts [
 ]
 )
 start &89
-end &49
+end &31
+es 0
 sat 32
 eat 32
 sty 1
@@ -5179,7 +5197,7 @@ pts [
 ]
 )
 start &87
-end &31
+end &40
 sat 32
 eat 32
 sty 1
@@ -5406,7 +5424,7 @@ pts [
 ]
 )
 start &163
-end &47
+end &29
 sat 32
 eat 32
 sty 1
@@ -5447,7 +5465,8 @@ pts [
 ]
 )
 start &188
-end &38
+end &47
+es 0
 sat 32
 eat 32
 sty 1
@@ -5542,7 +5561,7 @@ pts [
 ]
 )
 start &174
-end &48
+end &30
 sat 32
 eat 32
 stc 0
@@ -5595,7 +5614,8 @@ pts [
 ]
 )
 start &193
-end &39
+end &48
+es 0
 sat 32
 eat 32
 stc 0
@@ -5687,7 +5707,7 @@ pts [
 ]
 )
 start &171
-end &50
+end &32
 sat 32
 eat 32
 stc 0
@@ -5726,7 +5746,8 @@ pts [
 ]
 )
 start &198
-end &41
+end &50
+es 0
 sat 32
 eat 32
 stc 0
@@ -5818,7 +5839,8 @@ pts [
 ]
 )
 start &168
-end &33
+end &42
+es 0
 sat 32
 eat 32
 stc 0
@@ -5856,7 +5878,7 @@ pts [
 "-2000,12000"
 ]
 )
-start &51
+start &33
 end &202
 sat 32
 eat 32
@@ -5894,8 +5916,9 @@ pts [
 "-2000,29000"
 ]
 )
-start &42
+start &51
 end &169
+ss 0
 sat 32
 eat 32
 stc 0
@@ -6034,11 +6057,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,24,2561,1440"
-viewArea "-16400,-13400,118914,61304"
+viewArea "-36178,-3881,72074,55882"
 cachedDiagramExtent "-8600,-17000,249041,209544"
 hasePageBreakOrigin 1
 pageBreakOrigin "-78000,-49000"
-lastUid 829,0
+lastUid 852,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

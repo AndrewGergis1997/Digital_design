@@ -1,0 +1,140 @@
+DESIGN incrementer_4_bit
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN incrementer_4_bit
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN incrementer_4_bit
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN incrementer_4_bit
+VIEW symbol.sb
+GRAPHIC 117,0 15 0 
+DESIGN incrementer_4_bit
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN incrementer_4_bit
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 41,0 31 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 0,0 37 2 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 325,0 42 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 319,0 43 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 365,0 44 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 327,0 45 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+NO_GRAPHIC 46
+DESIGN incrementer_4_bit
+VIEW struct.bd
+NO_GRAPHIC 47
+LIBRARY alien_game_lib
+DESIGN c1_t1_half_adder
+VIEW struct
+GRAPHIC 175,0 49 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 116,0 51 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 121,0 52 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 126,0 53 0 
+DESIGN c1_t1_half_adder
+VIEW symbol.sb
+GRAPHIC 131,0 54 0 
+LIBRARY alien_game_lib
+DESIGN incrementer_4_bit
+VIEW struct.bd
+NO_GRAPHIC 57
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 175,0 60 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+NO_GRAPHIC 63
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 156,0 65 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+NO_GRAPHIC 68
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 175,0 70 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 271,0 72 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 307,0 73 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 311,0 74 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 295,0 75 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 201,0 77 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 275,0 79 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 311,0 80 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 315,0 81 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 299,0 82 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 227,0 84 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 279,0 86 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 315,0 87 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 367,0 88 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 303,0 89 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 339,0 91 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 377,0 93 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 367,0 94 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+GRAPHIC 371,0 96 0 
+DESIGN incrementer_4_bit
+VIEW struct.bd
+NO_GRAPHIC 99
