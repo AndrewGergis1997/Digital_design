@@ -1,0 +1,78 @@
+DESIGN right_shifter
+VIEW symbol.sb
+NO_GRAPHIC 0
+DESIGN right_shifter
+VIEW symbol.sb
+GRAPHIC 50,0 8 0 
+DESIGN right_shifter
+VIEW symbol.sb
+GRAPHIC 112,0 14 0 
+DESIGN right_shifter
+VIEW symbol.sb
+GRAPHIC 117,0 15 0 
+DESIGN right_shifter
+VIEW symbol.sb
+GRAPHIC 1,0 18 0 
+DESIGN right_shifter
+VIEW symbol.sb
+GRAPHIC 1,0 19 0 
+DESIGN right_shifter
+VIEW struct.bd
+NO_GRAPHIC 22
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 41,0 31 0 
+DESIGN right_shifter
+VIEW struct.bd
+NO_GRAPHIC 34
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 0,0 36 2 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 639,0 41 0 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 651,0 42 0 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 663,0 43 0 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 675,0 44 0 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 700,0 45 0 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 645,0 46 0 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 657,0 47 0 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 669,0 48 0 
+DESIGN right_shifter
+VIEW struct.bd
+NO_GRAPHIC 49
+DESIGN right_shifter
+VIEW struct.bd
+NO_GRAPHIC 53
+DESIGN right_shifter
+VIEW struct.bd
+NO_GRAPHIC 54
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 690,0 56 0 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 217,0 59 0 
+DESIGN right_shifter
+VIEW struct.bd
+GRAPHIC 404,0 62 0 
+DESIGN right_shifter
+VIEW struct.bd
+NO_GRAPHIC 77
+DESIGN right_shifter
+VIEW struct.bd
+NO_GRAPHIC 80

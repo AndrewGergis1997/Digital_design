@@ -165,19 +165,19 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\coordinates_al
 )
 (vvPair
 variable "date"
-value "22.11.2022"
+value "25.11.2022"
 )
 (vvPair
 variable "day"
-value "ti"
+value "pe"
 )
 (vvPair
 variable "day_long"
-value "tiistai"
+value "perjantai"
 )
 (vvPair
 variable "dd"
-value "22"
+value "25"
 )
 (vvPair
 variable "entity_name"
@@ -205,7 +205,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "22.11.2022"
+value "25.11.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -217,7 +217,7 @@ value "HTC219-722-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:09:05"
+value "20:12:20"
 )
 (vvPair
 variable "group"
@@ -325,7 +325,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:09:05"
+value "20:12:20"
 )
 (vvPair
 variable "unit"
@@ -415,9 +415,8 @@ declText (MLText
 uid 22,0
 va (VaSet
 )
-xt "-11000,40000,8900,41000"
-st "alien_x_coordinates : std_logic_vector(7 DOWNTO 0)
-"
+xt "-10000,50000,9900,51000"
+st "alien_x_coordinates : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *3 (PortIoIn
@@ -479,9 +478,8 @@ declText (MLText
 uid 36,0
 va (VaSet
 )
-xt "-11000,41000,8900,42000"
-st "gun_x_coordinates   : std_logic_vector(7 DOWNTO 0)
-"
+xt "-10000,51000,9900,52000"
+st "gun_x_coordinates   : std_logic_vector(7 DOWNTO 0)"
 )
 )
 *5 (PortIoOut
@@ -541,9 +539,8 @@ declText (MLText
 uid 50,0
 va (VaSet
 )
-xt "-11000,42000,-2200,43000"
-st "hit                 : std_logic
-"
+xt "-10000,52000,-1200,53000"
+st "hit                 : std_logic"
 )
 )
 *7 (Grouping
@@ -558,7 +555,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "18000,50000,35000,51000"
+xt "18000,52000,35000,53000"
 )
 oxt "18000,70000,35000,71000"
 text (MLText
@@ -567,7 +564,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "18200,50000,28500,51000"
+xt "18200,52000,29600,53000"
 st "
 by %user on %dd %month %year
 "
@@ -589,7 +586,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "35000,46000,39000,47000"
+xt "35000,48000,39000,49000"
 )
 oxt "35000,66000,39000,67000"
 text (MLText
@@ -598,7 +595,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "35200,46000,38200,47000"
+xt "35200,48000,38200,49000"
 st "
 Project:
 "
@@ -620,7 +617,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "18000,48000,35000,49000"
+xt "18000,50000,35000,51000"
 )
 oxt "18000,68000,35000,69000"
 text (MLText
@@ -629,7 +626,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "18200,48000,28200,49000"
+xt "18200,50000,28200,51000"
 st "
 <enter diagram title here>
 "
@@ -651,7 +648,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "14000,48000,18000,49000"
+xt "14000,50000,18000,51000"
 )
 oxt "14000,68000,18000,69000"
 text (MLText
@@ -660,7 +657,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "14200,48000,16300,49000"
+xt "14200,50000,16300,51000"
 st "
 Title:
 "
@@ -682,7 +679,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "35000,47000,55000,51000"
+xt "35000,49000,55000,53000"
 )
 oxt "35000,67000,55000,71000"
 text (MLText
@@ -691,7 +688,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "35200,47200,44600,48200"
+xt "35200,49200,44600,50200"
 st "
 <enter comments here>
 "
@@ -712,7 +709,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "39000,46000,55000,47000"
+xt "39000,48000,55000,49000"
 )
 oxt "39000,66000,55000,67000"
 text (MLText
@@ -721,7 +718,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "39200,46000,43900,47000"
+xt "39200,48000,43900,49000"
 st "
 %project_name
 "
@@ -743,7 +740,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "14000,46000,35000,48000"
+xt "14000,48000,35000,50000"
 )
 oxt "14000,66000,35000,68000"
 text (MLText
@@ -751,7 +748,7 @@ uid 79,0
 va (VaSet
 fg "32768,0,0"
 )
-xt "21000,46500,28000,47500"
+xt "21000,48500,28000,49500"
 st "
 <company name>
 "
@@ -774,7 +771,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "14000,49000,18000,50000"
+xt "14000,51000,18000,52000"
 )
 oxt "14000,69000,18000,70000"
 text (MLText
@@ -783,7 +780,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "14200,49000,16300,50000"
+xt "14200,51000,16300,52000"
 st "
 Path:
 "
@@ -805,7 +802,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "14000,50000,18000,51000"
+xt "14000,52000,18000,53000"
 )
 oxt "14000,70000,18000,71000"
 text (MLText
@@ -814,7 +811,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "14200,50000,16900,51000"
+xt "14200,52000,16900,53000"
 st "
 Edited:
 "
@@ -836,7 +833,7 @@ va (VaSet
 vasetType 1
 fg "65280,65280,46080"
 )
-xt "18000,49000,35000,50000"
+xt "18000,51000,35000,52000"
 )
 oxt "18000,69000,35000,70000"
 text (MLText
@@ -845,7 +842,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "18200,49000,34400,50000"
+xt "18200,51000,34400,52000"
 st "
 %library/%unit/%view
 "
@@ -867,7 +864,7 @@ fg "65535,65535,65535"
 lineStyle 2
 lineWidth 2
 )
-xt "14000,46000,55000,51000"
+xt "14000,48000,55000,53000"
 )
 oxt "14000,66000,55000,71000"
 )
@@ -6705,9 +6702,8 @@ declText (MLText
 uid 1024,0
 va (VaSet
 )
-xt "-11000,44000,1200,45000"
-st "SIGNAL dout                : std_logic
-"
+xt "-10000,54000,2200,55000"
+st "SIGNAL dout                : std_logic"
 )
 )
 *311 (Net
@@ -6723,9 +6719,8 @@ declText (MLText
 uid 1030,0
 va (VaSet
 )
-xt "-11000,46000,1400,47000"
-st "SIGNAL dout1               : std_logic
-"
+xt "-10000,56000,2400,57000"
+st "SIGNAL dout1               : std_logic"
 )
 )
 *312 (Net
@@ -6741,9 +6736,8 @@ declText (MLText
 uid 1036,0
 va (VaSet
 )
-xt "-11000,57000,1400,58000"
-st "SIGNAL dout2               : std_logic
-"
+xt "-10000,67000,2400,68000"
+st "SIGNAL dout2               : std_logic"
 )
 )
 *313 (Net
@@ -6759,9 +6753,8 @@ declText (MLText
 uid 1042,0
 va (VaSet
 )
-xt "-11000,61000,1400,62000"
-st "SIGNAL dout3               : std_logic
-"
+xt "-10000,71000,2400,72000"
+st "SIGNAL dout3               : std_logic"
 )
 )
 *314 (Net
@@ -6777,9 +6770,8 @@ declText (MLText
 uid 1048,0
 va (VaSet
 )
-xt "-11000,62000,1400,63000"
-st "SIGNAL dout4               : std_logic
-"
+xt "-10000,72000,2400,73000"
+st "SIGNAL dout4               : std_logic"
 )
 )
 *315 (Net
@@ -6795,9 +6787,8 @@ declText (MLText
 uid 1054,0
 va (VaSet
 )
-xt "-11000,63000,1400,64000"
-st "SIGNAL dout5               : std_logic
-"
+xt "-10000,73000,2400,74000"
+st "SIGNAL dout5               : std_logic"
 )
 )
 *316 (Net
@@ -6813,9 +6804,8 @@ declText (MLText
 uid 1060,0
 va (VaSet
 )
-xt "-11000,64000,1400,65000"
-st "SIGNAL dout6               : std_logic
-"
+xt "-10000,74000,2400,75000"
+st "SIGNAL dout6               : std_logic"
 )
 )
 *317 (Net
@@ -6831,9 +6821,8 @@ declText (MLText
 uid 1066,0
 va (VaSet
 )
-xt "-11000,65000,1400,66000"
-st "SIGNAL dout7               : std_logic
-"
+xt "-10000,75000,2400,76000"
+st "SIGNAL dout7               : std_logic"
 )
 )
 *318 (Net
@@ -6849,9 +6838,8 @@ declText (MLText
 uid 1072,0
 va (VaSet
 )
-xt "-11000,45000,1400,46000"
-st "SIGNAL dout0               : std_logic
-"
+xt "-10000,55000,2400,56000"
+st "SIGNAL dout0               : std_logic"
 )
 )
 *319 (Net
@@ -6867,9 +6855,8 @@ declText (MLText
 uid 1078,0
 va (VaSet
 )
-xt "-11000,66000,1400,67000"
-st "SIGNAL dout8               : std_logic
-"
+xt "-10000,76000,2400,77000"
+st "SIGNAL dout8               : std_logic"
 )
 )
 *320 (Net
@@ -6885,9 +6872,8 @@ declText (MLText
 uid 1084,0
 va (VaSet
 )
-xt "-11000,67000,1400,68000"
-st "SIGNAL dout9               : std_logic
-"
+xt "-10000,77000,2400,78000"
+st "SIGNAL dout9               : std_logic"
 )
 )
 *321 (Net
@@ -6903,9 +6889,8 @@ declText (MLText
 uid 1090,0
 va (VaSet
 )
-xt "-11000,47000,1600,48000"
-st "SIGNAL dout10              : std_logic
-"
+xt "-10000,57000,2600,58000"
+st "SIGNAL dout10              : std_logic"
 )
 )
 *322 (Net
@@ -6921,9 +6906,8 @@ declText (MLText
 uid 1096,0
 va (VaSet
 )
-xt "-11000,48000,1600,49000"
-st "SIGNAL dout11              : std_logic
-"
+xt "-10000,58000,2600,59000"
+st "SIGNAL dout11              : std_logic"
 )
 )
 *323 (Net
@@ -6939,9 +6923,8 @@ declText (MLText
 uid 1102,0
 va (VaSet
 )
-xt "-11000,49000,1600,50000"
-st "SIGNAL dout12              : std_logic
-"
+xt "-10000,59000,2600,60000"
+st "SIGNAL dout12              : std_logic"
 )
 )
 *324 (Net
@@ -6957,9 +6940,8 @@ declText (MLText
 uid 1108,0
 va (VaSet
 )
-xt "-11000,50000,1600,51000"
-st "SIGNAL dout13              : std_logic
-"
+xt "-10000,60000,2600,61000"
+st "SIGNAL dout13              : std_logic"
 )
 )
 *325 (Net
@@ -6975,9 +6957,8 @@ declText (MLText
 uid 1114,0
 va (VaSet
 )
-xt "-11000,51000,1600,52000"
-st "SIGNAL dout14              : std_logic
-"
+xt "-10000,61000,2600,62000"
+st "SIGNAL dout14              : std_logic"
 )
 )
 *326 (Net
@@ -6993,9 +6974,8 @@ declText (MLText
 uid 1240,0
 va (VaSet
 )
-xt "-11000,52000,1600,53000"
-st "SIGNAL dout15              : std_logic
-"
+xt "-10000,62000,2600,63000"
+st "SIGNAL dout15              : std_logic"
 )
 )
 *327 (Net
@@ -7011,9 +6991,8 @@ declText (MLText
 uid 1246,0
 va (VaSet
 )
-xt "-11000,53000,1600,54000"
-st "SIGNAL dout16              : std_logic
-"
+xt "-10000,63000,2600,64000"
+st "SIGNAL dout16              : std_logic"
 )
 )
 *328 (Net
@@ -7029,9 +7008,8 @@ declText (MLText
 uid 1252,0
 va (VaSet
 )
-xt "-11000,54000,1600,55000"
-st "SIGNAL dout17              : std_logic
-"
+xt "-10000,64000,2600,65000"
+st "SIGNAL dout17              : std_logic"
 )
 )
 *329 (Net
@@ -7047,9 +7025,8 @@ declText (MLText
 uid 1258,0
 va (VaSet
 )
-xt "-11000,55000,1600,56000"
-st "SIGNAL dout18              : std_logic
-"
+xt "-10000,65000,2600,66000"
+st "SIGNAL dout18              : std_logic"
 )
 )
 *330 (Net
@@ -7065,9 +7042,8 @@ declText (MLText
 uid 1264,0
 va (VaSet
 )
-xt "-11000,56000,1600,57000"
-st "SIGNAL dout19              : std_logic
-"
+xt "-10000,66000,2600,67000"
+st "SIGNAL dout19              : std_logic"
 )
 )
 *331 (Net
@@ -7083,9 +7059,8 @@ declText (MLText
 uid 1270,0
 va (VaSet
 )
-xt "-11000,58000,1600,59000"
-st "SIGNAL dout20              : std_logic
-"
+xt "-10000,68000,2600,69000"
+st "SIGNAL dout20              : std_logic"
 )
 )
 *332 (Net
@@ -7101,9 +7076,8 @@ declText (MLText
 uid 1276,0
 va (VaSet
 )
-xt "-11000,59000,1600,60000"
-st "SIGNAL dout21              : std_logic
-"
+xt "-10000,69000,2600,70000"
+st "SIGNAL dout21              : std_logic"
 )
 )
 *333 (Net
@@ -7119,9 +7093,8 @@ declText (MLText
 uid 1282,0
 va (VaSet
 )
-xt "-11000,60000,1600,61000"
-st "SIGNAL dout22              : std_logic
-"
+xt "-10000,70000,2600,71000"
+st "SIGNAL dout22              : std_logic"
 )
 )
 *334 (Wire
@@ -8228,15 +8201,15 @@ uid 90,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "-13000,1400,-7600,2400"
+xt "-12000,-4900,-6600,-3900"
 st "Package List"
-blo "-13000,2200"
+blo "-12000,-4100"
 )
 *363 (MLText
 uid 91,0
 va (VaSet
 )
-xt "-13000,2300,-2200,5300"
+xt "-12000,-4000,-1200,-1000"
 st "LIBRARY ieee;
 USE ieee.std_logic_1164.all;
 USE ieee.std_logic_arith.all;"
@@ -8318,11 +8291,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,41,2561,1410"
-viewArea "-39028,-5668,62631,48407"
-cachedDiagramExtent "-15500,0,64200,68000"
+viewArea "-25573,2211,77079,56815"
+cachedDiagramExtent "-15500,-4900,64200,78000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-87000,0"
-lastUid 1365,0
+lastUid 1388,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -9292,18 +9265,18 @@ uid 2,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "-13000,38000,-7600,39000"
+xt "-12000,48000,-6600,49000"
 st "Declarations"
-blo "-13000,38800"
+blo "-12000,48800"
 )
 portLabel (Text
 uid 3,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "-13000,39000,-10300,40000"
+xt "-12000,49000,-9300,50000"
 st "Ports:"
-blo "-13000,39800"
+blo "-12000,49800"
 )
 preUserLabel (Text
 uid 4,0
@@ -9311,16 +9284,16 @@ va (VaSet
 isHidden 1
 font "Arial,8,1"
 )
-xt "-13000,38000,-9200,39000"
+xt "-12000,48000,-8200,49000"
 st "Pre User:"
-blo "-13000,38800"
+blo "-12000,48800"
 )
 preUserText (MLText
 uid 5,0
 va (VaSet
 isHidden 1
 )
-xt "-13000,38000,-13000,38000"
+xt "-12000,48000,-12000,48000"
 tm "BdDeclarativeTextMgr"
 )
 diagSignalLabel (Text
@@ -9328,9 +9301,9 @@ uid 6,0
 va (VaSet
 font "Arial,8,1"
 )
-xt "-13000,43000,-5900,44000"
+xt "-12000,53000,-4900,54000"
 st "Diagram Signals:"
-blo "-13000,43800"
+blo "-12000,53800"
 )
 postUserLabel (Text
 uid 7,0
@@ -9338,16 +9311,16 @@ va (VaSet
 isHidden 1
 font "Arial,8,1"
 )
-xt "-13000,38000,-8300,39000"
+xt "-12000,48000,-7300,49000"
 st "Post User:"
-blo "-13000,38800"
+blo "-12000,48800"
 )
 postUserText (MLText
 uid 8,0
 va (VaSet
 isHidden 1
 )
-xt "-13000,38000,-13000,38000"
+xt "-12000,48000,-12000,48000"
 tm "BdDeclarativeTextMgr"
 )
 )
