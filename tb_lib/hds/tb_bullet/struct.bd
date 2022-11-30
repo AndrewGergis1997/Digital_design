@@ -28,7 +28,7 @@ duName "c4_t2_bullet"
 elements [
 ]
 mwi 0
-uid 855,0
+uid 985,0
 )
 ]
 libraryRefs [
@@ -135,7 +135,7 @@ value "HTC219-705-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "20:25:42"
+value "20:47:00"
 )
 (vvPair
 variable "group"
@@ -235,7 +235,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "20:25:42"
+value "20:47:00"
 )
 (vvPair
 variable "unit"
@@ -287,7 +287,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "35298,48000,44998,49000"
+xt "35298,48000,46698,49000"
 st "
 by %user on %dd %month %year
 "
@@ -444,7 +444,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "56809,44000,64509,45000"
+xt "56809,44000,61509,45000"
 st "
 %project_name
 "
@@ -1125,69 +1125,32 @@ st "SIGNAL bullet_y      : std_logic_vector(7 downto 0)"
 )
 )
 *32 (SaComponent
-uid 855,0
+uid 985,0
 optionalChildren [
 *33 (CptPort
-uid 823,0
+uid 953,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 824,0
+uid 954,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "29250,23625,30000,24375"
+xt "30250,22625,31000,23375"
 )
 tg (CPTG
-uid 825,0
+uid 955,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 826,0
+uid 956,0
 va (VaSet
 font "arial,8,0"
 )
-xt "31000,23500,40700,24500"
-st "gun_x_coordinates : (7:0)"
-blo "31000,24300"
-)
-)
-thePort (LogicalPort
-lang 2
-decl (Decl
-n "gun_x_coordinates"
-t "std_logic_vector"
-b "(7 DOWNTO 0)"
-o 4
-suid 1,0
-)
-)
-)
-*34 (CptPort
-uid 827,0
-ps "OnEdgeStrategy"
-shape (Triangle
-uid 828,0
-ro 90
-va (VaSet
-vasetType 1
-fg "0,65535,0"
-)
-xt "29250,22625,30000,23375"
-)
-tg (CPTG
-uid 829,0
-ps "CptPortTextPlaceStrategy"
-stg "VerticalLayoutStrategy"
-f (Text
-uid 830,0
-va (VaSet
-font "arial,8,0"
-)
-xt "31000,22500,35000,23500"
+xt "32000,22500,36000,23500"
 st "btn : (3:0)"
-blo "31000,23300"
+blo "32000,23300"
 )
 )
 thePort (LogicalPort
@@ -1201,30 +1164,30 @@ suid 2,0
 )
 )
 )
-*35 (CptPort
-uid 831,0
+*34 (CptPort
+uid 957,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 832,0
+uid 958,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "29250,17625,30000,18375"
+xt "30250,17625,31000,18375"
 )
 tg (CPTG
-uid 833,0
+uid 959,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 834,0
+uid 960,0
 va (VaSet
 font "arial,8,0"
 )
-xt "31000,17500,32400,18500"
+xt "32000,17500,33400,18500"
 st "clk"
-blo "31000,18300"
+blo "32000,18300"
 )
 )
 thePort (LogicalPort
@@ -1237,30 +1200,30 @@ suid 3,0
 )
 )
 )
-*36 (CptPort
-uid 835,0
+*35 (CptPort
+uid 961,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 836,0
+uid 962,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "29250,18625,30000,19375"
+xt "30250,18625,31000,19375"
 )
 tg (CPTG
-uid 837,0
+uid 963,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 838,0
+uid 964,0
 va (VaSet
 font "arial,8,0"
 )
-xt "31000,18500,33100,19500"
+xt "32000,18500,34100,19500"
 st "rst_n"
-blo "31000,19300"
+blo "32000,19300"
 )
 )
 thePort (LogicalPort
@@ -1273,30 +1236,30 @@ suid 4,0
 )
 )
 )
-*37 (CptPort
-uid 839,0
+*36 (CptPort
+uid 965,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 840,0
+uid 966,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "29250,20625,30000,21375"
+xt "30250,20625,31000,21375"
 )
 tg (CPTG
-uid 841,0
+uid 967,0
 ps "CptPortTextPlaceStrategy"
 stg "VerticalLayoutStrategy"
 f (Text
-uid 842,0
+uid 968,0
 va (VaSet
 font "arial,8,0"
 )
-xt "31000,20500,33600,21500"
+xt "32000,20500,34600,21500"
 st "enable"
-blo "31000,21300"
+blo "32000,21300"
 )
 )
 thePort (LogicalPort
@@ -1309,31 +1272,31 @@ suid 5,0
 )
 )
 )
-*38 (CptPort
-uid 843,0
+*37 (CptPort
+uid 969,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 844,0
+uid 970,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "50000,19625,50750,20375"
+xt "54000,17625,54750,18375"
 )
 tg (CPTG
-uid 845,0
+uid 971,0
 ps "CptPortTextPlaceStrategy"
 stg "RightVerticalLayoutStrategy"
 f (Text
-uid 846,0
+uid 972,0
 va (VaSet
 font "arial,8,0"
 )
-xt "43900,19500,49000,20500"
+xt "47900,17500,53000,18500"
 st "color : (23:0)"
 ju 2
-blo "49000,20300"
+blo "53000,18300"
 )
 )
 thePort (LogicalPort
@@ -1348,144 +1311,181 @@ suid 6,0
 )
 )
 )
-*39 (CptPort
-uid 847,0
+*38 (CptPort
+uid 973,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 848,0
+uid 974,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "50000,24625,50750,25375"
+xt "54000,24625,54750,25375"
 )
 tg (CPTG
-uid 849,0
+uid 975,0
 ps "CptPortTextPlaceStrategy"
 stg "RightVerticalLayoutStrategy"
 f (Text
-uid 850,0
+uid 976,0
 va (VaSet
 font "arial,8,0"
 )
-xt "38700,24500,49000,25500"
-st "bullet_x_coordinates : (7:0)"
+xt "43100,24500,53000,25500"
+st "bullet_y_coordinate : (7:0)"
 ju 2
-blo "49000,25300"
+blo "53000,25300"
 )
 )
 thePort (LogicalPort
 lang 2
 m 1
 decl (Decl
-n "bullet_x_coordinates"
+n "bullet_y_coordinate"
+t "std_logic_vector"
+b "(7 DOWNTO 0)"
+o 7
+suid 9,0
+)
+)
+)
+*39 (CptPort
+uid 977,0
+ps "OnEdgeStrategy"
+shape (Triangle
+uid 978,0
+ro 90
+va (VaSet
+vasetType 1
+fg "0,65535,0"
+)
+xt "54000,21625,54750,22375"
+)
+tg (CPTG
+uid 979,0
+ps "CptPortTextPlaceStrategy"
+stg "RightVerticalLayoutStrategy"
+f (Text
+uid 980,0
+va (VaSet
+font "arial,8,0"
+)
+xt "43100,21500,53000,22500"
+st "bullet_x_coordinate : (7:0)"
+ju 2
+blo "53000,22300"
+)
+)
+thePort (LogicalPort
+lang 2
+m 1
+decl (Decl
+n "bullet_x_coordinate"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
 o 6
-suid 7,0
+suid 10,0
 )
 )
 )
 *40 (CptPort
-uid 851,0
+uid 981,0
 ps "OnEdgeStrategy"
 shape (Triangle
-uid 852,0
+uid 982,0
 ro 90
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 )
-xt "50000,21625,50750,22375"
+xt "30250,23625,31000,24375"
 )
 tg (CPTG
-uid 853,0
+uid 983,0
 ps "CptPortTextPlaceStrategy"
-stg "RightVerticalLayoutStrategy"
+stg "VerticalLayoutStrategy"
 f (Text
-uid 854,0
+uid 984,0
 va (VaSet
 font "arial,8,0"
 )
-xt "38700,21500,49000,22500"
-st "bullet_y_coordinates : (7:0)"
-ju 2
-blo "49000,22300"
+xt "32000,23500,41300,24500"
+st "gun_x_coordinate : (7:0)"
+blo "32000,24300"
 )
 )
 thePort (LogicalPort
 lang 2
-m 1
 decl (Decl
-n "bullet_y_coordinates"
+n "gun_x_coordinate"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 7
-suid 8,0
+o 4
+suid 11,0
 )
 )
 )
 ]
 shape (Rectangle
-uid 856,0
+uid 986,0
 va (VaSet
 vasetType 1
 fg "0,65535,0"
 lineColor "0,32896,0"
 lineWidth 2
 )
-xt "30000,17000,50000,37000"
+xt "31000,17000,54000,37000"
 )
 oxt "15000,6000,38000,26000"
 ttg (MlTextGroup
-uid 857,0
+uid 987,0
 ps "CenterOffsetStrategy"
 stg "VerticalLayoutStrategy"
 textVec [
 *41 (Text
-uid 858,0
+uid 988,0
 va (VaSet
 font "arial,8,1"
 )
-xt "38200,26000,44400,27000"
+xt "39200,26000,45400,27000"
 st "alien_game_lib"
-blo "38200,26800"
+blo "39200,26800"
 tm "BdLibraryNameMgr"
 )
 *42 (Text
-uid 859,0
+uid 989,0
 va (VaSet
 font "arial,8,1"
 )
-xt "38200,27000,43400,28000"
+xt "39200,27000,44400,28000"
 st "c4_t2_bullet"
-blo "38200,27800"
+blo "39200,27800"
 tm "CptNameMgr"
 )
 *43 (Text
-uid 860,0
+uid 990,0
 va (VaSet
 font "arial,8,1"
 )
-xt "38200,28000,40000,29000"
+xt "39200,28000,41000,29000"
 st "U_1"
-blo "38200,28800"
+blo "39200,28800"
 tm "InstanceNameMgr"
 )
 ]
 )
 ga (GenericAssociation
-uid 861,0
+uid 991,0
 ps "EdgeToEdgeStrategy"
 matrix (Matrix
-uid 862,0
+uid 992,0
 text (MLText
-uid 863,0
+uid 993,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "15000,23000,15000,23000"
+xt "16000,23000,16000,23000"
 )
 header ""
 )
@@ -1493,13 +1493,13 @@ elements [
 ]
 )
 viewicon (ZoomableIcon
-uid 864,0
+uid 994,0
 sl 0
 va (VaSet
 vasetType 1
 fg "49152,49152,49152"
 )
-xt "30250,35250,31750,36750"
+xt "31250,35250,32750,36750"
 iconName "BlockDiagram.png"
 iconMaskName "BlockDiagram.msk"
 ftype 1
@@ -1518,16 +1518,14 @@ va (VaSet
 vasetType 3
 lineWidth 2
 )
-xt "18750,23000,29250,23000"
+xt "18750,23000,30250,23000"
 pts [
 "18750,23000"
-"26000,23000"
-"27000,23000"
-"29250,23000"
+"30250,23000"
 ]
 )
 start &17
-end &34
+end &33
 sat 32
 eat 32
 sty 1
@@ -1543,9 +1541,9 @@ uid 126,0
 va (VaSet
 font "arial,8,0"
 )
-xt "23000,22000,27000,23000"
+xt "24000,22000,28000,23000"
 st "btn : (3:0)"
-blo "23000,22800"
+blo "24000,22800"
 tm "WireNameMgr"
 )
 )
@@ -1558,14 +1556,14 @@ uid 140,0
 va (VaSet
 vasetType 3
 )
-xt "18750,18000,29250,18000"
+xt "18750,18000,30250,18000"
 pts [
 "18750,18000"
-"29250,18000"
+"30250,18000"
 ]
 )
 start &19
-end &35
+end &34
 sat 32
 eat 32
 st 0
@@ -1596,16 +1594,14 @@ va (VaSet
 vasetType 3
 lineWidth 2
 )
-xt "18750,24000,29250,24000"
+xt "18750,24000,30250,24000"
 pts [
 "18750,24000"
-"23000,24000"
-"25000,24000"
-"29250,24000"
+"30250,24000"
 ]
 )
 start &20
-end &33
+end &40
 es 0
 sat 32
 eat 32
@@ -1637,15 +1633,14 @@ uid 160,0
 va (VaSet
 vasetType 3
 )
-xt "18750,19000,29250,19000"
+xt "18750,19000,30250,19000"
 pts [
 "18750,19000"
-"29250,19000"
+"30250,19000"
 ]
 )
 start &21
-end &36
-es 0
+end &35
 sat 32
 eat 32
 st 0
@@ -1676,19 +1671,18 @@ va (VaSet
 vasetType 3
 lineWidth 2
 )
-xt "5000,13000,61000,20000"
+xt "5000,13000,61000,19000"
 pts [
 "5250,19000"
 "5000,19000"
 "5000,13000"
 "61000,13000"
-"61000,20000"
-"50750,20000"
+"61000,18000"
+"54750,18000"
 ]
 )
 start &22
-end &38
-es 0
+end &37
 sat 32
 eat 32
 sty 1
@@ -1704,9 +1698,9 @@ uid 253,0
 va (VaSet
 font "arial,8,0"
 )
-xt "52000,19000,57100,20000"
+xt "56000,17000,61100,18000"
 st "bullet_colour"
-blo "52000,19800"
+blo "56000,17800"
 tm "WireNameMgr"
 )
 )
@@ -1727,11 +1721,11 @@ pts [
 "3000,11000"
 "63000,11000"
 "63000,25000"
-"50750,25000"
+"54750,25000"
 ]
 )
 start &23
-end &39
+end &38
 sat 32
 eat 32
 sty 1
@@ -1747,9 +1741,9 @@ uid 379,0
 va (VaSet
 font "arial,8,0"
 )
-xt "53000,24000,56000,25000"
+xt "57000,24000,60000,25000"
 st "bullet_x"
-blo "53000,24800"
+blo "57000,24800"
 tm "WireNameMgr"
 )
 )
@@ -1762,15 +1756,14 @@ uid 389,0
 va (VaSet
 vasetType 3
 )
-xt "18750,21000,29250,21000"
+xt "18750,21000,30250,21000"
 pts [
 "18750,21000"
-"29250,21000"
+"30250,21000"
 ]
 )
 start &24
-end &37
-es 0
+end &36
 sat 32
 eat 32
 stc 0
@@ -1808,11 +1801,12 @@ pts [
 "4000,12000"
 "62000,12000"
 "62000,22000"
-"50750,22000"
+"54750,22000"
 ]
 )
 start &18
-end &40
+end &39
+es 0
 sat 32
 eat 32
 sty 1
@@ -1828,9 +1822,9 @@ uid 577,0
 va (VaSet
 font "arial,8,0"
 )
-xt "53000,21000,56000,22000"
+xt "57000,21000,60000,22000"
 st "bullet_y"
-blo "53000,21800"
+blo "57000,21800"
 tm "WireNameMgr"
 )
 )
@@ -1950,12 +1944,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "410,236,2067,1216"
-viewArea "-1067,-966,97534,57822"
+windowSize "0,0,2561,1416"
+viewArea "-1100,-1000,159877,87872"
 cachedDiagramExtent "0,0,73000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "0,0"
-lastUid 864,0
+lastUid 994,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
