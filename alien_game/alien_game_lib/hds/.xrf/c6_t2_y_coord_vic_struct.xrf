@@ -30,19 +30,19 @@ VIEW struct.bd
 GRAPHIC 0,0 36 2 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 455,0 41 0 
+GRAPHIC 886,0 41 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 485,0 42 0 
+GRAPHIC 888,0 42 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 491,0 43 0 
+GRAPHIC 890,0 43 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 461,0 44 0 
+GRAPHIC 894,0 44 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 479,0 45 0 
+GRAPHIC 884,0 45 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
 NO_GRAPHIC 46
@@ -54,25 +54,25 @@ VIEW struct.bd
 NO_GRAPHIC 48
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 369,0 50 0 
+GRAPHIC 586,0 50 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 379,0 53 0 
+GRAPHIC 605,0 53 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 398,0 56 0 
+GRAPHIC 567,0 56 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 417,0 59 0 
+GRAPHIC 548,0 59 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 436,0 62 0 
+GRAPHIC 624,0 62 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-GRAPHIC 179,0 65 0 
+GRAPHIC 649,0 65 0 
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-NO_GRAPHIC 82
+NO_GRAPHIC 89
 DESIGN c6_t2_y_coord_vic
 VIEW struct.bd
-NO_GRAPHIC 85
+NO_GRAPHIC 92

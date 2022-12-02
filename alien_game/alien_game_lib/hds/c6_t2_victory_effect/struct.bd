@@ -138,19 +138,19 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c6_t2_victory_
 )
 (vvPair
 variable "date"
-value "22.11.2022"
+value " 2.12.2022"
 )
 (vvPair
 variable "day"
-value "ti"
+value "pe"
 )
 (vvPair
 variable "day_long"
-value "tiistai"
+value "perjantai"
 )
 (vvPair
 variable "dd"
-value "22"
+value "02"
 )
 (vvPair
 variable "entity_name"
@@ -178,7 +178,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "22.11.2022"
+value " 2.12.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -186,11 +186,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-722-SPC"
+value "HTC219-715-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "17:54:39"
+value "12:58:48"
 )
 (vvPair
 variable "group"
@@ -198,7 +198,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-722-SPC"
+value "HTC219-715-SPC"
 )
 (vvPair
 variable "language"
@@ -207,6 +207,10 @@ value "VHDL"
 (vvPair
 variable "library"
 value "alien_game_lib"
+)
+(vvPair
+variable "library_downstream_HdsLintPlugin"
+value "$HDS_PROJECT_DIR/alien_game_lib/designcheck"
 )
 (vvPair
 variable "library_downstream_ModelSimCompiler"
@@ -222,7 +226,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/svassistant"
 )
 (vvPair
 variable "mm"
-value "11"
+value "12"
 )
 (vvPair
 variable "module_name"
@@ -230,11 +234,11 @@ value "c6_t2_victory_effect"
 )
 (vvPair
 variable "month"
-value "marras"
+value "joulu"
 )
 (vvPair
 variable "month_long"
-value "marraskuu"
+value "joulukuu"
 )
 (vvPair
 variable "p"
@@ -298,7 +302,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "17:54:39"
+value "12:58:48"
 )
 (vvPair
 variable "unit"
@@ -670,7 +674,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "30200,48000,41600,49000"
+xt "30200,48000,40700,49000"
 st "
 by %user on %dd %month %year
 "
@@ -3650,7 +3654,7 @@ optionalChildren [
 *148 (Property
 pclass "param"
 pname "value"
-pvalue "x\"FFFFFF\""
+pvalue "x\"FFF00F\""
 ptn "String"
 )
 ]
@@ -4824,12 +4828,12 @@ tm "BdCompilerDirectivesTextMgr"
 ]
 associable 1
 )
-windowSize "0,0,2561,1416"
-viewArea "-34000,-16200,75651,44336"
+windowSize "0,24,2561,1440"
+viewArea "-47700,-23800,89947,52192"
 cachedDiagramExtent "-18400,-19000,67000,49000"
 hasePageBreakOrigin 1
 pageBreakOrigin "-79000,-49000"
-lastUid 617,0
+lastUid 686,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0

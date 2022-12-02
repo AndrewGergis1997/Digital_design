@@ -1,0 +1,3 @@
+we created a gun and alien first, Then added the victory effect later to the design. the gun,alien and the victory effect are all connected to 3 muxes,
+the muxes control signal is connected to the write sequncer which decides what to appear on the led matrix.
+it wasn't easy to implement at first bit we really enjoyed the course

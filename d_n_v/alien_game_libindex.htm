@@ -1264,19 +1264,6 @@ function initialise() {
                    'alien_game_lib/c3_t1_basic_alien/struct_bd.htm',
                    'struct');
    nodes[3] = theMenu.addChild(nodes[2],
-                   'ComponentDu', 'c4_gun_poition',
-                   '',
-                   'c4_gun_poition');
-   theMenu.entry[nodes[3]].setAltType('spacer');
-   nodes[4] = theMenu.addChild(nodes[3],
-                   'Symbol', 'symbol',
-                   'alien_game_lib/c4_gun_poition/symbol_sb.htm',
-                   'symbol');
-   nodes[4] = theMenu.addChild(nodes[3],
-                   'BlockDiagramDef', 'struct',
-                   'alien_game_lib/c4_gun_poition/struct_bd.htm',
-                   'struct');
-   nodes[3] = theMenu.addChild(nodes[2],
                    'ComponentDu', 'c4_t1_gun_module',
                    '',
                    'c4_t1_gun_module');
@@ -1329,6 +1316,110 @@ function initialise() {
                    'alien_game_lib/c4_t1_m3/struct_bd.htm',
                    'struct');
    nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c4_t2_bullet',
+                   '',
+                   'c4_t2_bullet');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c4_t2_bullet/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c4_t2_bullet/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t1_write_sequencer',
+                   '',
+                   'c5_t1_write_sequencer');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t1_write_sequencer/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'StateDiagramDef', 'fsm',
+                   'alien_game_lib/c5_t1_write_sequencer/fsm_sm.htm',
+                   'fsm');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c5_t2_game_top_level',
+                   '',
+                   'c5_t2_game_top_level');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c5_t2_game_top_level/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c5_t2_game_top_level/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c6_t1_hit_detector',
+                   '',
+                   'c6_t1_hit_detector');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c6_t1_hit_detector/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c6_t1_hit_detector/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c6_t2_victory_effect',
+                   '',
+                   'c6_t2_victory_effect');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c6_t2_victory_effect/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c6_t2_victory_effect/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c6_t2_x_coord_vic',
+                   '',
+                   'c6_t2_x_coord_vic');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c6_t2_x_coord_vic/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c6_t2_x_coord_vic/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'c6_t2_y_coord_vic',
+                   '',
+                   'c6_t2_y_coord_vic');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/c6_t2_y_coord_vic/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/c6_t2_y_coord_vic/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'coordinates_alien_and_gun',
+                   '',
+                   'coordinates_alien_and_gun');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/coordinates_alien_and_gun/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/coordinates_alien_and_gun/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
                    'ComponentDu', 'full_adder',
                    '',
                    'full_adder');
@@ -1340,6 +1431,32 @@ function initialise() {
    nodes[4] = theMenu.addChild(nodes[3],
                    'BlockDiagramDef', 'struct',
                    'alien_game_lib/full_adder/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'incrementer_4_bit',
+                   '',
+                   'incrementer_4_bit');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/incrementer_4_bit/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/incrementer_4_bit/struct_bd.htm',
+                   'struct');
+   nodes[3] = theMenu.addChild(nodes[2],
+                   'ComponentDu', 'right_shifter',
+                   '',
+                   'right_shifter');
+   theMenu.entry[nodes[3]].setAltType('spacer');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'Symbol', 'symbol',
+                   'alien_game_lib/right_shifter/symbol_sb.htm',
+                   'symbol');
+   nodes[4] = theMenu.addChild(nodes[3],
+                   'BlockDiagramDef', 'struct',
+                   'alien_game_lib/right_shifter/struct_bd.htm',
                    'struct');
    nodes[2] = theMenu.addChild(nodes[1],
                    'Folder', 'HDL Files',
@@ -1353,10 +1470,6 @@ function initialise() {
                    'Folder', 'hds',
                    '',
                    'hds');
-   nodes[5] = theMenu.addChild(nodes[4],
-                   'Folder', '.xrf',
-                   '',
-                   '.xrf');
    nodes[5] = theMenu.addChild(nodes[4],
                    'Folder', '.hdlsidedata',
                    '',

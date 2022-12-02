@@ -472,19 +472,19 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_m2"
 )
 (vvPair
 variable "date"
-value "17.11.2022"
+value " 2.12.2022"
 )
 (vvPair
 variable "day"
-value "to"
+value "pe"
 )
 (vvPair
 variable "day_long"
-value "torstai"
+value "perjantai"
 )
 (vvPair
 variable "dd"
-value "17"
+value "02"
 )
 (vvPair
 variable "entity_name"
@@ -512,7 +512,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "17.11.2022"
+value " 2.12.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -520,11 +520,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-712-SPC"
+value "HTC219-720-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "21:12:40"
+value "00:34:12"
 )
 (vvPair
 variable "group"
@@ -532,7 +532,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-712-SPC"
+value "HTC219-720-SPC"
 )
 (vvPair
 variable "language"
@@ -556,7 +556,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/svassistant"
 )
 (vvPair
 variable "mm"
-value "11"
+value "12"
 )
 (vvPair
 variable "module_name"
@@ -564,11 +564,11 @@ value "c4_t1_m2"
 )
 (vvPair
 variable "month"
-value "marras"
+value "joulu"
 )
 (vvPair
 variable "month_long"
-value "marraskuu"
+value "joulukuu"
 )
 (vvPair
 variable "p"
@@ -632,7 +632,7 @@ value "symbol"
 )
 (vvPair
 variable "time"
-value "21:12:40"
+value "00:34:12"
 )
 (vvPair
 variable "unit"
@@ -966,7 +966,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "36200,48000,46500,49000"
+xt "36200,48000,46700,49000"
 st "
 by %user on %dd %month %year
 "
@@ -1572,6 +1572,6 @@ xt "42000,0,42000,0"
 tm "SyDeclarativeTextMgr"
 )
 )
-lastUid 303,0
+lastUid 395,0
 activeModelName "Symbol:CDM"
 )

@@ -75,40 +75,40 @@
 <polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="422, 87,412, 92,412, 83,422, 87" /> 
 <polyline id="r0"  stroke="rgb(0,255,0)" fill="rgb(0,255,0)" stroke-width="1px" stroke-dasharray="" points="187, 125,178, 130,178, 120,187, 125" /> 
 <polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="187, 125,178, 130,178, 120,187, 125" /> 
-<text x="0" y="9" font-family="courier" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Package List</text>
-<text x="0" y="21" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">LIBRARY ieee;</text>
-<text x="0" y="32" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_1164.all;</text>
-<text x="0" y="44" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_arith.all;</text>
-<text x="525" y="9" font-family="courier" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Declarations</text>
-<text x="525" y="21" font-family="courier" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Ports:</text>
-<text x="525" y="74" font-family="courier" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">User:</text>
-<text x="277" y="196" font-family="courier" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">alien_game_lib</text>
-<text x="277" y="209" font-family="courier" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">c3_hit_defeated</text>
-<text x="0" y="159" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">Generic Declarations</text>
-<text x="200" y="90" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">clk</text>
-<text x="550" y="34" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">clk      : IN     std_logic  ;</text>
-<text x="200" y="115" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">hit</text>
-<text x="550" y="44" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">hit      : IN     std_logic  ;</text>
-<text x="400" y="90" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="end">defeated</text>
-<text x="550" y="64" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">defeated : OUT    std_logic </text>
-<text x="200" y="127" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">rst</text>
-<text x="550" y="54" font-family="courier" fill="rgb(0,0,0)" font-size="10" text-anchor="start">rst      : IN     std_logic  ;</text>
-<text x="452" y="610" font-family="courier" fill="rgb(0,0,127)" font-size="12" text-anchor="start">by mqange on 13 loka 2022</text>
-<text x="665" y="560" font-family="courier" fill="rgb(0,0,127)" font-size="12" text-anchor="start">  &#0060;&#0060;--</text>
-<text x="452" y="585" font-family="courier" fill="rgb(0,0,127)" font-size="12" text-anchor="start">&#0060;enter diagram title here&#0062;</text>
-<text x="402" y="585" font-family="courier" fill="rgb(0,0,127)" font-size="12" text-anchor="start">Title:</text>
-<text x="665" y="575" font-family="courier" fill="rgb(0,0,127)" font-size="12" text-anchor="start">&#0060;enter comments here&#0062;</text>
-<text x="715" y="560" font-family="courier" fill="rgb(0,0,127)" font-size="12" text-anchor="start">alien_game</text>
-<text x="531" y="566" font-family="courier" fill="rgb(127,0,0)" font-size="12" text-anchor="middle">&#0060;company name&#0062;</text>
-<text x="402" y="597" font-family="courier" fill="rgb(0,0,127)" font-size="12" text-anchor="start">Path:</text>
-<text x="402" y="610" font-family="courier" fill="rgb(0,0,127)" font-size="12" text-anchor="start">  &#0060;&#0060;--</text>
-<text x="452" y="597" font-family="courier" fill="rgb(0,0,127)" font-size="12" text-anchor="start">  &#0060;&#0060;-- more --&#0062;&#0062;</text>
+<text x="0" y="10" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Package List</text>
+<text x="0" y="22" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">LIBRARY ieee;</text>
+<text x="0" y="35" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_1164.all;</text>
+<text x="0" y="47" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_arith.all;</text>
+<text x="525" y="10" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Declarations</text>
+<text x="525" y="22" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Ports:</text>
+<text x="525" y="75" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">User:</text>
+<text x="277" y="197" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">alien_game_lib</text>
+<text x="277" y="210" font-family="arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">c3_hit_defeated</text>
+<text x="0" y="157" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">Generic Declarations</text>
+<text x="200" y="91" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">clk</text>
+<text x="550" y="32" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">clk      : IN     std_logic  ;</text>
+<text x="200" y="116" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">hit</text>
+<text x="550" y="42" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">hit      : IN     std_logic  ;</text>
+<text x="400" y="91" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">defeated</text>
+<text x="550" y="62" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">defeated : OUT    std_logic </text>
+<text x="200" y="129" font-family="arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">rst</text>
+<text x="550" y="52" font-family="Courier New" fill="rgb(0,0,0)" font-size="10" text-anchor="start">rst      : IN     std_logic  ;</text>
+<text x="452" y="610" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">by mqange on 13 loka 2022</text>
+<text x="665" y="560" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Project:</text>
+<text x="452" y="585" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">&#0060;enter diagram title here&#0062;</text>
+<text x="402" y="585" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Title:</text>
+<text x="665" y="575" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">&#0060;enter comments here&#0062;</text>
+<text x="715" y="560" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">alien_game</text>
+<text x="531" y="566" font-family="Arial" fill="rgb(127,0,0)" font-size="10" text-anchor="middle">&#0060;company name&#0062;</text>
+<text x="402" y="597" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Path:</text>
+<text x="402" y="610" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Edited:</text>
+<text x="452" y="597" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">alien_game_lib/c3_hit_defeated/symbol</text>
 </g>
 </svg>
 <!-- Create a "titlebox" group so we can reposition it when the SVG moves -->
 <g id="titlebox">
 <g id="genTime" class="allText normalText">
-  <text class="allText smallText" x="300" y="123">Generated on: 11/05/22 at: 11:19 PM</text>
+  <text class="allText smallText" x="300" y="123">Generated on:  1.12.2022 at: 11:39 ip.</text>
 </g>
 
 <rect stroke="none" fill="rgb(200,230,240)" opacity="0.4" y="112" x="0" width="914" height="15" />

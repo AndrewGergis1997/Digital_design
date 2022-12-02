@@ -1,3 +1,5 @@
+[DesignChecker]
+alien_game_lib = $HDS_PROJECT_DIR\alien_game_lib\designcheck
 [ModelSim]
 alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/work
 pre_made = P:/StudentDocuments/27/pre_made/work
@@ -9,11 +11,11 @@ alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/svassistant
 [hdl]
 alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/hdl
 pre_made = P:/StudentDocuments/27/pre_made/hdl
-tb_lib = P:\StudentDocuments\27\tb_lib\hdl
+tb_lib = P:/StudentDocuments/27/tb_lib/hdl
 [hds]
 alien_game_lib = $HDS_PROJECT_DIR/alien_game_lib/hds
 pre_made = P:/StudentDocuments/27/pre_made/hds
-tb_lib = P:\StudentDocuments\27\tb_lib\hds
+tb_lib = P:/StudentDocuments/27/tb_lib/hds
 [hds_settings]
 default_library = alien_game_lib
 design_root = .()

@@ -156,19 +156,19 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c4_t1_gun_modu
 )
 (vvPair
 variable "date"
-value "22.11.2022"
+value " 2.12.2022"
 )
 (vvPair
 variable "day"
-value "ti"
+value "pe"
 )
 (vvPair
 variable "day_long"
-value "tiistai"
+value "perjantai"
 )
 (vvPair
 variable "dd"
-value "22"
+value "02"
 )
 (vvPair
 variable "entity_name"
@@ -196,7 +196,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "22.11.2022"
+value " 2.12.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -204,11 +204,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-722-SPC"
+value "HTC219-720-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "16:58:09"
+value "00:35:28"
 )
 (vvPair
 variable "group"
@@ -216,7 +216,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-722-SPC"
+value "HTC219-720-SPC"
 )
 (vvPair
 variable "language"
@@ -240,7 +240,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/svassistant"
 )
 (vvPair
 variable "mm"
-value "11"
+value "12"
 )
 (vvPair
 variable "module_name"
@@ -248,11 +248,11 @@ value "c4_t1_gun_module"
 )
 (vvPair
 variable "month"
-value "marras"
+value "joulu"
 )
 (vvPair
 variable "month_long"
-value "marraskuu"
+value "joulukuu"
 )
 (vvPair
 variable "p"
@@ -316,7 +316,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "16:58:09"
+value "00:35:28"
 )
 (vvPair
 variable "unit"
@@ -408,8 +408,8 @@ uid 22,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-15000,62500,-14200"
-st "btn        : std_logic_vector(3 DOWNTO 0)
+xt "40000,-15000,63000,-14200"
+st "btn         : std_logic_vector(3 DOWNTO 0)
 "
 )
 )
@@ -434,7 +434,7 @@ va (VaSet
 fg "0,0,32768"
 bg "0,0,32768"
 )
-xt "31200,48000,42600,49000"
+xt "31200,48000,41700,49000"
 st "
 by %user on %dd %month %year
 "
@@ -791,7 +791,7 @@ decl (Decl
 n "gun_px_idx"
 t "std_logic_vector"
 b "(1 DOWNTO 0)"
-o 2
+o 4
 suid 2,0
 )
 declText (MLText
@@ -799,8 +799,8 @@ uid 152,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-12600,62500,-11800"
-st "gun_px_idx : std_logic_vector(1 DOWNTO 0)
+xt "40000,-12600,63000,-11800"
+st "gun_px_idx  : std_logic_vector(1 DOWNTO 0)
 "
 )
 )
@@ -864,8 +864,8 @@ uid 166,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-13400,52500,-12600"
-st "enable     : std_logic
+xt "40000,-13400,53000,-12600"
+st "enable      : std_logic
 "
 )
 )
@@ -921,7 +921,7 @@ lang 2
 decl (Decl
 n "clk"
 t "std_logic"
-o 4
+o 2
 suid 4,0
 )
 declText (MLText
@@ -929,8 +929,8 @@ uid 180,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-14200,52500,-13400"
-st "clk        : std_logic
+xt "40000,-14200,53000,-13400"
+st "clk         : std_logic
 "
 )
 )
@@ -994,8 +994,8 @@ uid 194,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-11800,52500,-11000"
-st "rst_n      : std_logic
+xt "40000,-11800,53000,-11000"
+st "rst_n       : std_logic
 "
 )
 )
@@ -1037,8 +1037,8 @@ uid 200,0
 va (VaSet
 font "arial,8,0"
 )
-xt "65000,21500,68100,22500"
-st "x_coord"
+xt "65000,21500,70100,22500"
+st "gun_x_coord"
 blo "65000,22300"
 tm "WireNameMgr"
 )
@@ -1048,10 +1048,10 @@ tm "WireNameMgr"
 uid 207,0
 lang 2
 decl (Decl
-n "x_coord"
+n "gun_x_coord"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 6
+o 7
 suid 6,0
 )
 declText (MLText
@@ -1059,8 +1059,8 @@ uid 208,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-10200,62500,-9400"
-st "x_coord    : std_logic_vector(7 DOWNTO 0)
+xt "40000,-10200,63000,-9400"
+st "gun_x_coord : std_logic_vector(7 DOWNTO 0)
 "
 )
 )
@@ -1102,8 +1102,8 @@ uid 214,0
 va (VaSet
 font "arial,8,0"
 )
-xt "68000,9500,71100,10500"
-st "y_coord"
+xt "68000,9500,73100,10500"
+st "gun_y_coord"
 blo "68000,10300"
 tm "WireNameMgr"
 )
@@ -1113,10 +1113,10 @@ tm "WireNameMgr"
 uid 221,0
 lang 2
 decl (Decl
-n "y_coord"
+n "gun_y_coord"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 7
+o 8
 suid 7,0
 )
 declText (MLText
@@ -1124,8 +1124,8 @@ uid 222,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-9400,62500,-8600"
-st "y_coord    : std_logic_vector(7 DOWNTO 0)
+xt "40000,-9400,63000,-8600"
+st "gun_y_coord : std_logic_vector(7 DOWNTO 0)
 "
 )
 )
@@ -1181,7 +1181,7 @@ decl (Decl
 n "gun_color"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 8
+o 6
 suid 8,0
 )
 declText (MLText
@@ -1189,8 +1189,8 @@ uid 236,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-11000,63000,-10200"
-st "gun_color  : std_logic_vector(23 DOWNTO 0)
+xt "40000,-11000,63500,-10200"
+st "gun_color   : std_logic_vector(23 DOWNTO 0)
 "
 )
 )
@@ -2055,7 +2055,7 @@ m 1
 decl (Decl
 n "dout"
 t "std_logic"
-o 9
+o 13
 suid 1,0
 )
 )
@@ -2109,7 +2109,7 @@ lang 2
 decl (Decl
 n "din0"
 t "std_logic"
-o 2
+o 4
 suid 2,0
 )
 )
@@ -2163,7 +2163,7 @@ lang 2
 decl (Decl
 n "din1"
 t "std_logic"
-o 2
+o 4
 suid 3,0
 )
 )
@@ -2435,7 +2435,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 6
+o 7
 suid 2,0
 )
 )
@@ -2504,7 +2504,7 @@ decl (Decl
 n "sel"
 t "std_logic_vector"
 b "(1 DOWNTO 0)"
-o 2
+o 4
 suid 4,0
 )
 )
@@ -2741,7 +2741,7 @@ decl (Decl
 n "din0"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 9
 suid 1,0
 )
 )
@@ -2806,7 +2806,7 @@ decl (Decl
 n "din1"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 10
 suid 3,0
 )
 )
@@ -2871,7 +2871,7 @@ decl (Decl
 n "din2"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 11
 suid 1,0
 )
 )
@@ -2936,7 +2936,7 @@ decl (Decl
 n "din3"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 12
 suid 1,0
 )
 )
@@ -3162,7 +3162,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 7
+o 8
 suid 2,0
 )
 )
@@ -3294,7 +3294,7 @@ lang 2
 decl (Decl
 n "sel"
 t "std_logic"
-o 9
+o 13
 suid 4,0
 )
 )
@@ -3621,7 +3621,7 @@ decl (Decl
 n "dout"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 8
+o 6
 suid 1,0
 )
 )
@@ -4026,7 +4026,7 @@ lang 2
 decl (Decl
 n "dout"
 t "std_logic"
-o 9
+o 13
 suid 9,0
 )
 declText (MLText
@@ -4034,8 +4034,8 @@ uid 540,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-4400,56000,-3600"
-st "SIGNAL dout       : std_logic
+xt "40000,-4400,56500,-3600"
+st "SIGNAL dout        : std_logic
 "
 )
 )
@@ -4046,7 +4046,7 @@ decl (Decl
 n "din3"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 12
 suid 14,0
 )
 declText (MLText
@@ -4054,8 +4054,8 @@ uid 570,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-5200,66000,-4400"
-st "SIGNAL din3       : std_logic_vector(7 DOWNTO 0)
+xt "40000,-5200,66500,-4400"
+st "SIGNAL din3        : std_logic_vector(7 DOWNTO 0)
 "
 )
 )
@@ -4066,7 +4066,7 @@ decl (Decl
 n "din2"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 11
 suid 15,0
 )
 declText (MLText
@@ -4074,8 +4074,8 @@ uid 576,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-6000,66000,-5200"
-st "SIGNAL din2       : std_logic_vector(7 DOWNTO 0)
+xt "40000,-6000,66500,-5200"
+st "SIGNAL din2        : std_logic_vector(7 DOWNTO 0)
 "
 )
 )
@@ -4086,7 +4086,7 @@ decl (Decl
 n "din1"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 10
 suid 16,0
 )
 declText (MLText
@@ -4094,8 +4094,8 @@ uid 582,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-6800,66000,-6000"
-st "SIGNAL din1       : std_logic_vector(7 DOWNTO 0)
+xt "40000,-6800,66500,-6000"
+st "SIGNAL din1        : std_logic_vector(7 DOWNTO 0)
 "
 )
 )
@@ -4106,7 +4106,7 @@ decl (Decl
 n "din0"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 9
 suid 17,0
 )
 declText (MLText
@@ -4114,8 +4114,8 @@ uid 588,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-7600,66000,-6800"
-st "SIGNAL din0       : std_logic_vector(7 DOWNTO 0)
+xt "40000,-7600,66500,-6800"
+st "SIGNAL din0        : std_logic_vector(7 DOWNTO 0)
 "
 )
 )
@@ -4543,8 +4543,8 @@ uid 656,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-3600,66000,-2800"
-st "SIGNAL dout1      : std_logic_vector(7 DOWNTO 0)
+xt "40000,-3600,66500,-2800"
+st "SIGNAL dout1       : std_logic_vector(7 DOWNTO 0)
 "
 )
 )
@@ -4563,8 +4563,8 @@ uid 662,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "40000,-2800,66000,-2000"
-st "SIGNAL dout2      : std_logic_vector(7 DOWNTO 0)
+xt "40000,-2800,66500,-2000"
+st "SIGNAL dout2       : std_logic_vector(7 DOWNTO 0)
 "
 )
 )
@@ -4922,8 +4922,8 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "47000,21000,52700,22000"
-st "x_coord : (7:0)"
+xt "47000,21000,54300,22000"
+st "gun_x_coord : (7:0)"
 blo "47000,21800"
 tm "WireNameMgr"
 )
@@ -4962,8 +4962,8 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "59000,9000,64700,10000"
-st "y_coord : (7:0)"
+xt "59000,9000,66300,10000"
+st "gun_y_coord : (7:0)"
 blo "59000,9800"
 tm "WireNameMgr"
 )
@@ -6057,11 +6057,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,24,2561,1440"
-viewArea "-36178,-3881,72074,55882"
+viewArea "-36200,-3900,71118,55348"
 cachedDiagramExtent "-8600,-17000,249041,209544"
 hasePageBreakOrigin 1
 pageBreakOrigin "-78000,-49000"
-lastUid 852,0
+lastUid 898,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -7180,7 +7180,7 @@ decl (Decl
 n "gun_px_idx"
 t "std_logic_vector"
 b "(1 DOWNTO 0)"
-o 2
+o 4
 suid 2,0
 )
 )
@@ -7206,7 +7206,7 @@ lang 2
 decl (Decl
 n "clk"
 t "std_logic"
-o 4
+o 2
 suid 4,0
 )
 )
@@ -7231,10 +7231,10 @@ port (LogicalPort
 lang 2
 m 1
 decl (Decl
-n "x_coord"
+n "gun_x_coord"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 6
+o 7
 suid 6,0
 )
 )
@@ -7246,10 +7246,10 @@ port (LogicalPort
 lang 2
 m 1
 decl (Decl
-n "y_coord"
+n "gun_y_coord"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 7
+o 8
 suid 7,0
 )
 )
@@ -7264,7 +7264,7 @@ decl (Decl
 n "gun_color"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
-o 8
+o 6
 suid 8,0
 )
 )
@@ -7278,7 +7278,7 @@ m 4
 decl (Decl
 n "dout"
 t "std_logic"
-o 9
+o 13
 suid 9,0
 )
 )
@@ -7292,7 +7292,7 @@ decl (Decl
 n "din3"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 12
 suid 14,0
 )
 )
@@ -7306,7 +7306,7 @@ decl (Decl
 n "din2"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 11
 suid 15,0
 )
 )
@@ -7320,7 +7320,7 @@ decl (Decl
 n "din1"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 10
 suid 16,0
 )
 )
@@ -7334,7 +7334,7 @@ decl (Decl
 n "din0"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
-o 13
+o 9
 suid 17,0
 )
 )

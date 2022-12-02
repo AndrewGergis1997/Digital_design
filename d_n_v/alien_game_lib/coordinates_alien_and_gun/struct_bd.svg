@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created HDS 2004.1a -->
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<script xlink:href="../../scripts/SVGPan.js" />
+<g id="viewport" transform="translate(0,-100)">
+
+
+<title>SVG Image</title>
+<desc></desc>
+
+
+<defs>
+<!-- section for CSS stylesheet definitions -->
+<style type="text/css"><![CDATA[
+.allText {font-family:Sans-Serif;fill:darkcyan;}
+.subTitleText {font-size:20;font-weight:bold;}
+.normalText {font-size:15;}
+.smallText {font-size:12;}
+.boldText {font-weight:bold;}
+.rightText {text-anchor:end;}
+.centerText {text-anchor:middle;}
+.dragRect {fill:darkcyan;stroke:none;opacity:0.4;}
+]]></style>
+<symbol id="upArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="5,0 10,5 0,5 5,0" />
+</symbol>
+<symbol id="leftArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="0,5 5,0 5,10 0,5" />
+</symbol>
+<symbol id="rightArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="5,0 10,5 5,10 5,0" />
+</symbol>
+<symbol id="downArrow" overflow="visible" style="stroke:darkcyan;fill:darkcyan;stroke-width:1;" pointer-events="none">
+<polygon points="0,0 5,5 10,0 0,0" />
+</symbol>
+
+</defs>
+<svg id="mainMap" x="0" y="150" viewBox="0 0 998 1037" width="912" height="512">
+
+
+<clipPath id="SVG_Clip">
+<rect x="0" y="0" width="998" height="1037" />
+</clipPath>
+<g id="hds_models" style="clip-path:url(#SVG_Clip)">
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="381, 248,381, 323" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="844, 361,844, 298" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="356, 236,331, 236" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="381, 223,381, 148" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="569, 186,569, 186" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="569, 136,569, 136" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 161,631, 161" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 236,631, 236" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 186,631, 186" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="694, 211,694, 211" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="569, 298,569, 298" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="569, 248,569, 248" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 273,631, 273" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 298,631, 298" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="356, 473,331, 473" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="381, 486,381, 561" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="381, 461,381, 386" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="844, 411,844, 473" /> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="869, 411,844, 411,844, 361,869, 361,869, 411" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" points="869, 411,844, 411,844, 361,869, 361" /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(869,386) rotate(0.000000)"
+d="M 0.00000 -25.00000 A 25 25 0 0 1 0.00000 25.00000 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(869,386) rotate(0.000000)"
+d="M 0.00000 -25.00000 A 25 25 0 0 1 0.00000 25.00000 " /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 348,631, 348" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="694, 323,694, 323" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="569, 398,569, 398" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="569, 348,569, 348" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 373,631, 373" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="644, 448,644, 448" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="644, 398,644, 398" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="706, 423,706, 423" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="569, 511,569, 511" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="569, 461,569, 461" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 486,631, 486" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="644, 561,644, 561" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="644, 511,644, 511" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="706, 536,706, 536" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="950, 381,963, 381,969, 386,963, 391,950, 391,950, 381" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="950, 381,963, 381,969, 386,963, 391,950, 391,950, 381" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="950, 381,963, 381,969, 386,963, 391,950, 391,950, 381" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="950, 381,963, 381,969, 386,963, 391,950, 391,950, 381" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="944, 386,950, 386" /> 
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="711px" x="419px" width="212px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="711px" x="419px" width="212px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="686px" x="419px" width="212px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="686px" x="419px" width="212px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="661px" x="369px" width="262px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="661px" x="369px" width="262px" height="25px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="698px" x="419px" width="212px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="698px" x="419px" width="212px" height="13px" rx="0" ry="0" />
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="107, 231,119, 231,125, 236,119, 241,107, 241,107, 231" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="107, 231,119, 231,125, 236,119, 241,107, 241,107, 231" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="107, 231,119, 231,125, 236,119, 241,107, 241,107, 231" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="107, 231,119, 231,125, 236,119, 241,107, 241,107, 231" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="125, 236,132, 236" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="132, 469,144, 469,150, 473,144, 478,132, 478,132, 469" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="132, 469,144, 469,150, 473,144, 478,132, 478,132, 469" /> 
+<polyline id="r0"  stroke="rgb(0,0,128)" fill="rgb(0,0,128)" stroke-width="1px" stroke-dasharray="" points="132, 469,144, 469,150, 473,144, 478,132, 478,132, 469" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="132, 469,144, 469,150, 473,144, 478,132, 478,132, 469" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="150, 473,157, 473" /> 
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="686px" x="369px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="686px" x="369px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="698px" x="369px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="698px" x="369px" width="50px" height="13px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="711px" x="369px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="711px" x="369px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="661px" x="631px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="661px" x="631px" width="50px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="673px" x="631px" width="250px" height="50px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="673px" x="631px" width="250px" height="50px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(254,254,179)" fill="rgb(254,254,179)" stroke-width="1px" stroke-dasharray="" y="661px" x="681px" width="200px" height="12px" rx="0" ry="0" />
+<rect id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" y="661px" x="681px" width="200px" height="12px" rx="0" ry="0" />
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="125, 236,132, 236" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="150, 473,157, 473" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="944, 386,950, 386" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="831, 298,833, 298" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="619, 311,639, 311" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="838" cy="298" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="838" cy="298" r="5"/> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="644, 161,631, 161" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="556, 148,577, 148" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="556, 173,576, 173" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="706, 211,694, 211" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="619, 198,639, 198" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="619, 223,639, 223" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="644, 273,631, 273" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="556, 261,577, 261" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="556, 286,576, 286" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 436,651, 436" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="706, 323,694, 323" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="619, 336,639, 336" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="644, 373,631, 373" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="556, 361,577, 361" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="556, 386,576, 386" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="719, 423,706, 423" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 411,652, 411" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="906, 386,894, 386" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="831, 323,833, 323" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="838" cy="323" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="838" cy="323" r="5"/> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="831, 348,833, 348" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="838" cy="348" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="838" cy="348" r="5"/> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="831, 373,833, 373" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="838" cy="373" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="838" cy="373" r="5"/> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="831, 398,833, 398" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="838" cy="398" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="838" cy="398" r="5"/> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="831, 423,833, 423" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="838" cy="423" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="838" cy="423" r="5"/> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="644, 486,631, 486" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="556, 473,577, 473" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="556, 498,576, 498" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="719, 536,706, 536" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 523,652, 523" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="631, 548,651, 548" /> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="831, 448,833, 448" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="838" cy="448" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="838" cy="448" r="5"/> 
+<polyline id="r0"  stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" points="831, 473,833, 473" /> 
+<circle id="r0"  stroke="rgb(255,255,255)" fill="rgb(255,255,255)" stroke-width="1px" stroke-dasharray="" cx="838" cy="473" r="5"/> 
+<circle stroke="rgb(0,0,0)" fill="none" stroke-width="1px" stroke-dasharray="" cx="838" cy="473" r="5"/> 
+<polyline id="r0"  stroke="rgb(192,192,192)" fill="rgb(192,192,192)" stroke-width="1px" stroke-dasharray="" points="356, 236,381, 223,381, 248,356, 236,356, 236" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="356, 236,381, 223,381, 248,356, 236,356, 236" /> 
+<polyline id="r0"  stroke="rgb(192,192,192)" fill="rgb(192,192,192)" stroke-width="1px" stroke-dasharray="" points="356, 473,381, 461,381, 486,356, 473,356, 473" /> 
+<polyline id="r0"  stroke="rgb(102,102,102)" fill="none" stroke-width="3px" stroke-dasharray="" points="356, 473,381, 461,381, 486,356, 473,356, 473" /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(542,161) rotate(0.000000)"
+d="M 27.29853 -24.97579 A 37 37 0 0 1 27.29853 24.97579 " /> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="575, 187,576, 186,577, 185,577, 184,578, 183,579, 182,579, 181,580, 180,581, 179,581, 178,582, 177,582, 176,582, 175,583, 174,583, 173,583, 172,584, 171,584, 170,584, 169,584, 168,585, 167,585, 166,585, 165,585, 164,585, 163,585, 162,585, 161,585, 160,585, 159,585, 158,585, 157,585, 156,585, 155,584, 154,584, 153,584, 152,584, 151,583, 150,583, 149,583, 148,582, 147,582, 146,582, 145,581, 144,581, 143,580, 142,579, 141,579, 140,578, 139,577, 138,577, 137,577, 136,577, 136,607, 145,631, 161,608, 174,577, 186" /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(546,161) rotate(0.000000)"
+d="M 30.16944 -24.71446 A 39 39 0 0 1 30.16944 24.71446 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(579,204) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(579,204) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(579,117) rotate(0.000000)"
+d="M 53.77757 44.81042 A 70 70 0 0 1 -1.03281 69.99238 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(578,116) rotate(0.000000)"
+d="M 53.00932 44.17027 A 69 69 0 0 1 -1.01806 68.99249 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(604,211) rotate(0.000000)"
+d="M 27.29853 -24.97579 A 37 37 0 0 1 27.29853 24.97579 " /> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="638, 237,639, 236,640, 235,640, 234,641, 233,642, 232,642, 231,643, 230,644, 229,644, 228,645, 227,645, 226,645, 225,646, 224,646, 223,646, 222,647, 221,647, 220,647, 219,647, 218,648, 217,648, 216,648, 215,648, 214,648, 213,648, 212,648, 211,648, 210,648, 209,648, 208,648, 207,648, 206,648, 205,647, 204,647, 203,647, 202,647, 201,646, 200,646, 199,646, 198,645, 197,645, 196,645, 195,644, 194,644, 193,643, 192,642, 191,642, 190,641, 189,640, 188,640, 187,640, 186,640, 186,669, 195,694, 211,670, 224,640, 236" /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(609,211) rotate(0.000000)"
+d="M 30.16944 -24.71446 A 39 39 0 0 1 30.16944 24.71446 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(642,254) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(641,254) rotate(0.000000)"
+d="M -1.97809 -66.97079 A 67 67 0 0 1 51.92885 -42.33668 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(641,167) rotate(0.000000)"
+d="M 53.77757 44.81042 A 70 70 0 0 1 -1.03281 69.99238 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(640,166) rotate(0.000000)"
+d="M 53.00932 44.17027 A 69 69 0 0 1 -1.01806 68.99249 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(542,273) rotate(0.000000)"
+d="M 27.29853 -24.97579 A 37 37 0 0 1 27.29853 24.97579 " /> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="575, 299,576, 298,577, 297,577, 296,578, 295,579, 294,579, 293,580, 292,581, 291,581, 290,582, 289,582, 288,582, 287,583, 286,583, 285,583, 284,584, 283,584, 282,584, 281,584, 280,585, 279,585, 278,585, 277,585, 276,585, 275,585, 274,585, 273,585, 272,585, 271,585, 270,585, 269,585, 268,585, 267,584, 266,584, 265,584, 264,584, 263,583, 262,583, 261,583, 260,582, 259,582, 258,582, 257,581, 256,581, 255,580, 254,579, 253,579, 252,578, 251,577, 250,577, 249,577, 248,577, 248,607, 257,631, 273,608, 287,577, 298" /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(546,273) rotate(0.000000)"
+d="M 30.16944 -24.71446 A 39 39 0 0 1 30.16944 24.71446 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(579,317) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(579,316) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(579,229) rotate(0.000000)"
+d="M 53.77757 44.81042 A 70 70 0 0 1 -1.03281 69.99238 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(578,229) rotate(0.000000)"
+d="M 53.00932 44.17027 A 69 69 0 0 1 -1.01806 68.99249 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(604,323) rotate(0.000000)"
+d="M 27.29853 -24.97579 A 37 37 0 0 1 27.29853 24.97579 " /> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="638, 349,639, 348,640, 347,640, 346,641, 345,642, 344,642, 343,643, 342,644, 341,644, 340,645, 339,645, 338,645, 337,646, 336,646, 335,646, 334,647, 333,647, 332,647, 331,647, 330,648, 329,648, 328,648, 327,648, 326,648, 325,648, 324,648, 323,648, 322,648, 321,648, 320,648, 319,648, 318,648, 317,647, 316,647, 315,647, 314,647, 313,646, 312,646, 311,646, 310,645, 309,645, 308,645, 307,644, 306,644, 305,643, 304,642, 303,642, 302,641, 301,640, 300,640, 299,640, 298,640, 298,669, 307,694, 323,670, 337,640, 348" /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(609,323) rotate(0.000000)"
+d="M 30.16944 -24.71446 A 39 39 0 0 1 30.16944 24.71446 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(642,367) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(641,366) rotate(0.000000)"
+d="M -1.97809 -66.97079 A 67 67 0 0 1 51.92885 -42.33668 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(641,279) rotate(0.000000)"
+d="M 53.77757 44.81042 A 70 70 0 0 1 -1.03281 69.99238 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(640,279) rotate(0.000000)"
+d="M 53.00932 44.17027 A 69 69 0 0 1 -1.01806 68.99249 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(542,373) rotate(0.000000)"
+d="M 27.29853 -24.97579 A 37 37 0 0 1 27.29853 24.97579 " /> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="575, 399,576, 398,577, 397,577, 396,578, 395,579, 394,579, 393,580, 392,581, 391,581, 390,582, 389,582, 388,582, 387,583, 386,583, 385,583, 384,584, 383,584, 382,584, 381,584, 380,585, 379,585, 378,585, 377,585, 376,585, 375,585, 374,585, 373,585, 372,585, 371,585, 370,585, 369,585, 368,585, 367,584, 366,584, 365,584, 364,584, 363,583, 362,583, 361,583, 360,582, 359,582, 358,582, 357,581, 356,581, 355,580, 354,579, 353,579, 352,578, 351,577, 350,577, 349,577, 348,577, 348,607, 357,631, 373,608, 387,577, 398" /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(546,373) rotate(0.000000)"
+d="M 30.16944 -24.71446 A 39 39 0 0 1 30.16944 24.71446 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(579,417) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(579,416) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(579,329) rotate(0.000000)"
+d="M 53.77757 44.81042 A 70 70 0 0 1 -1.03281 69.99238 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(578,329) rotate(0.000000)"
+d="M 53.00932 44.17027 A 69 69 0 0 1 -1.01806 68.99249 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(617,423) rotate(0.000000)"
+d="M 27.29853 -24.97579 A 37 37 0 0 1 27.29853 24.97579 " /> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="650, 449,651, 448,652, 447,652, 446,653, 445,654, 444,654, 443,655, 442,656, 441,656, 440,657, 439,657, 438,657, 437,658, 436,658, 435,658, 434,659, 433,659, 432,659, 431,659, 430,660, 429,660, 428,660, 427,660, 426,660, 425,660, 424,660, 423,660, 422,660, 421,660, 420,660, 419,660, 418,660, 417,659, 416,659, 415,659, 414,659, 413,658, 412,658, 411,658, 410,657, 409,657, 408,657, 407,656, 406,656, 405,655, 404,654, 403,654, 402,653, 401,652, 400,652, 399,652, 398,652, 398,682, 407,706, 423,683, 437,652, 448" /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(621,423) rotate(0.000000)"
+d="M 30.16944 -24.71446 A 39 39 0 0 1 30.16944 24.71446 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(654,467) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(654,466) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(654,379) rotate(0.000000)"
+d="M 53.77757 44.81042 A 70 70 0 0 1 -1.03281 69.99238 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(653,379) rotate(0.000000)"
+d="M 53.00932 44.17027 A 69 69 0 0 1 -1.01806 68.99249 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(542,486) rotate(0.000000)"
+d="M 27.29853 -24.97579 A 37 37 0 0 1 27.29853 24.97579 " /> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="575, 512,576, 511,577, 510,577, 509,578, 508,579, 507,579, 506,580, 505,581, 504,581, 503,582, 502,582, 501,582, 500,583, 499,583, 498,583, 497,584, 496,584, 495,584, 494,584, 493,585, 492,585, 491,585, 490,585, 489,585, 488,585, 487,585, 486,585, 485,585, 484,585, 483,585, 482,585, 481,585, 480,584, 479,584, 478,584, 477,584, 476,583, 475,583, 474,583, 473,582, 472,582, 471,582, 470,581, 469,581, 468,580, 467,579, 466,579, 465,578, 464,577, 463,577, 462,577, 461,577, 461,607, 470,631, 486,608, 499,577, 511" /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(546,486) rotate(0.000000)"
+d="M 30.16944 -24.71446 A 39 39 0 0 1 30.16944 24.71446 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(579,529) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(579,529) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(579,442) rotate(0.000000)"
+d="M 53.77757 44.81042 A 70 70 0 0 1 -1.03281 69.99238 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(578,441) rotate(0.000000)"
+d="M 53.00932 44.17027 A 69 69 0 0 1 -1.01806 68.99249 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(617,536) rotate(0.000000)"
+d="M 27.29853 -24.97579 A 37 37 0 0 1 27.29853 24.97579 " /> 
+<polyline id="r0"  stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" points="650, 562,651, 561,652, 560,652, 559,653, 558,654, 557,654, 556,655, 555,656, 554,656, 553,657, 552,657, 551,657, 550,658, 549,658, 548,658, 547,659, 546,659, 545,659, 544,659, 543,660, 542,660, 541,660, 540,660, 539,660, 538,660, 537,660, 536,660, 535,660, 534,660, 533,660, 532,660, 531,660, 530,659, 529,659, 528,659, 527,659, 526,658, 525,658, 524,658, 523,657, 522,657, 521,657, 520,656, 519,656, 518,655, 517,654, 516,654, 515,653, 514,652, 513,652, 512,652, 511,652, 511,682, 520,706, 536,683, 549,652, 561" /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(621,536) rotate(0.000000)"
+d="M 30.16944 -24.71446 A 39 39 0 0 1 30.16944 24.71446 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(654,579) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(654,579) rotate(0.000000)"
+d="M -2.00762 -67.97036 A 68 68 0 0 1 52.70391 -42.96857 " /> 
+<path stroke="rgb(0,255,255)" fill="rgb(0,255,255)" stroke-width="1px" stroke-dasharray="" transform="translate(654,492) rotate(0.000000)"
+d="M 53.77757 44.81042 A 70 70 0 0 1 -1.03281 69.99238 " /> 
+<path stroke="rgb(102,102,102)" fill="none" stroke-width="1px" stroke-dasharray="" transform="translate(653,491) rotate(0.000000)"
+d="M 53.00932 44.17027 A 69 69 0 0 1 -1.01806 68.99249 " /> 
+<text x="69" y="746" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout                : std_logic</text>
+<text x="421" y="721" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">by mqange on 25 marras 2022</text>
+<text x="421" y="696" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">&#0060;enter diagram title here&#0062;</text>
+<text x="500" y="677" font-family="Arial" fill="rgb(127,0,0)" font-size="10" text-anchor="middle">&#0060;company name&#0062;</text>
+<text x="421" y="708" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">  &#0060;&#0060;-- more --&#0062;&#0062;</text>
+<text x="588" y="377" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">xnor</text>
+<text x="44" y="10" font-family="Arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Package List</text>
+<text x="44" y="21" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">LIBRARY ieee;</text>
+<text x="44" y="34" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_1164.all;</text>
+<text x="44" y="46" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">USE ieee.std_logic_arith.all;</text>
+<text x="94" y="240" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">alien_x_coordinates</text>
+<text x="330" y="258" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">split</text>
+<text x="330" y="270" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_0</text>
+<text x="352" y="248" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">msb</text>
+<text x="354" y="230" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">lsb</text>
+<text x="588" y="165" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">xnor</text>
+<text x="588" y="176" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_3</text>
+<text x="650" y="215" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">xnor</text>
+<text x="650" y="226" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_4</text>
+<text x="588" y="277" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">xnor</text>
+<text x="588" y="288" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_5</text>
+<text x="650" y="327" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">xnor</text>
+<text x="650" y="338" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_6</text>
+<text x="69" y="696" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">alien_x_coordinates : std_logic_vector(7 DOWNTO 0)</text>
+<text x="69" y="708" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">gun_x_coordinates   : std_logic_vector(7 DOWNTO 0)</text>
+<text x="119" y="478" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="end">gun_x_coordinates</text>
+<text x="343" y="496" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">split</text>
+<text x="343" y="507" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_1</text>
+<text x="352" y="485" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">msb</text>
+<text x="354" y="467" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="middle">lsb</text>
+<text x="44" y="671" font-family="Arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Declarations</text>
+<text x="44" y="683" font-family="Arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Ports:</text>
+<text x="44" y="733" font-family="Arial" fill="rgb(0,0,0)" font-weight="800" font-size="10" text-anchor="start">Diagram Signals:</text>
+<text x="69" y="721" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">hit                 : std_logic</text>
+<text x="371" y="696" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Title:</text>
+<text x="371" y="708" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Path:</text>
+<text x="371" y="721" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Edited:</text>
+<text x="634" y="686" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">&#0060;enter comments here&#0062;</text>
+<text x="663" y="551" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_10</text>
+<text x="588" y="388" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_7</text>
+<text x="663" y="427" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">xnor</text>
+<text x="663" y="438" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_8</text>
+<text x="588" y="490" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">xnor</text>
+<text x="588" y="501" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_9</text>
+<text x="663" y="540" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">xnor</text>
+<text x="981" y="390" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">hit</text>
+<text x="850" y="490" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">and</text>
+<text x="850" y="501" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">U_2</text>
+<text x="634" y="671" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">Project:</text>
+<text x="684" y="671" font-family="Arial" fill="rgb(0,0,128)" font-size="10" text-anchor="start">alien_game</text>
+<text x="69" y="771" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout1               : std_logic</text>
+<text x="69" y="908" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout2               : std_logic</text>
+<text x="69" y="958" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout3               : std_logic</text>
+<text x="69" y="971" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout4               : std_logic</text>
+<text x="69" y="983" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout5               : std_logic</text>
+<text x="69" y="996" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout6               : std_logic</text>
+<text x="69" y="1008" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout7               : std_logic</text>
+<text x="69" y="758" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout0               : std_logic</text>
+<text x="69" y="1021" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout8               : std_logic</text>
+<text x="69" y="1033" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout9               : std_logic</text>
+<text x="69" y="783" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout10              : std_logic</text>
+<text x="69" y="796" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout11              : std_logic</text>
+<text x="69" y="808" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout12              : std_logic</text>
+<text x="69" y="821" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout13              : std_logic</text>
+<text x="69" y="833" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout14              : std_logic</text>
+<text x="69" y="846" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout15              : std_logic</text>
+<text x="69" y="858" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout16              : std_logic</text>
+<text x="69" y="871" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout17              : std_logic</text>
+<text x="69" y="883" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout18              : std_logic</text>
+<text x="69" y="896" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout19              : std_logic</text>
+<text x="69" y="921" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout20              : std_logic</text>
+<text x="69" y="933" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout21              : std_logic</text>
+<text x="69" y="946" font-family="Arial" fill="rgb(0,0,0)" font-size="10" text-anchor="start">SIGNAL dout22              : std_logic</text>
+<g id="alien_x_coordinates_net" stroke="rgb(0,0,0)" stroke-width="3px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="132, 236,331, 236" /> 
+</g>
+<g id="dout_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="644, 161,794, 161,794, 298,831, 298" /> 
+</g>
+<g id="dout0_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 148,556, 148" /> 
+</g>
+<g id="dout1_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="706, 211,781, 211,781, 323,831, 323" /> 
+</g>
+<g id="dout10_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 223,519, 223,519, 361,556, 361" /> 
+</g>
+<g id="dout11_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 248,506, 248,506, 411,631, 411" /> 
+</g>
+<g id="dout12_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 273,481, 273,481, 473,556, 473" /> 
+</g>
+<g id="dout13_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 298,456, 298,456, 311,619, 311" /> 
+</g>
+<g id="dout14_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 323,469, 323,469, 523,631, 523" /> 
+</g>
+<g id="dout15_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 561,594, 561,594, 548,631, 548" /> 
+</g>
+<g id="dout16_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 536,531, 536,531, 498,556, 498" /> 
+</g>
+<g id="dout17_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 511,519, 511,519, 436,631, 436" /> 
+</g>
+<g id="dout18_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 486,494, 486,494, 386,556, 386" /> 
+</g>
+<g id="dout19_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 461,456, 461,456, 336,619, 336" /> 
+</g>
+<g id="dout2_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="644, 273,769, 273,769, 348,831, 348" /> 
+</g>
+<g id="dout20_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 436,444, 436,444, 286,556, 286" /> 
+</g>
+<g id="dout21_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 411,419, 411,419, 248,556, 248,556, 223,619, 223" /> 
+</g>
+<g id="dout22_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 386,406, 386,406, 161,531, 161,531, 173,556, 173" /> 
+</g>
+<g id="dout3_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="706, 323,756, 323,756, 373,831, 373" /> 
+</g>
+<g id="dout4_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="644, 373,744, 373,744, 398,831, 398" /> 
+</g>
+<g id="dout5_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="719, 423,831, 423" /> 
+</g>
+<g id="dout6_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="644, 486,744, 486,744, 448,831, 448" /> 
+</g>
+<g id="dout7_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="719, 536,806, 536,806, 473,831, 473" /> 
+</g>
+<g id="dout8_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 173,444, 173,444, 198,619, 198" /> 
+</g>
+<g id="dout9_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="381, 198,431, 198,431, 261,556, 261" /> 
+</g>
+<g id="gun_x_coordinates_net" stroke="rgb(0,0,0)" stroke-width="3px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="157, 473,331, 473" /> 
+</g>
+<g id="hit_net" stroke="rgb(0,0,0)" stroke-width="1px"  >
+<polyline id="r0"  fill="none"  stroke-dasharray="" points="944, 386,906, 386" /> 
+</g>
+</g>
+</svg>
+<!-- Create a "titlebox" group so we can reposition it when the SVG moves -->
+<g id="titlebox">
+<g id="genTime" class="allText normalText">
+  <text class="allText smallText" x="300" y="123">Generated on:  1.12.2022 at: 11:39 ip.</text>
+</g>
+
+<rect stroke="none" fill="rgb(200,230,240)" opacity="0.4" y="112" x="0" width="914" height="15" />
+<!-- Close the "titlebox" group -->
+</g>
+
+</g>
+</svg>

@@ -58,3 +58,4 @@ set_property IOSTANDARD LVCMOS18 [get_ports sw0]
 set_property PACKAGE_PIN M20 [get_ports sw0]
 
 
+

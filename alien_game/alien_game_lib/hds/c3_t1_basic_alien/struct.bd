@@ -129,19 +129,19 @@ value "P:\\StudentDocuments\\27\\alien_game\\alien_game_lib\\hds\\c3_t1_basic_al
 )
 (vvPair
 variable "date"
-value "14.10.2022"
+value " 1.12.2022"
 )
 (vvPair
 variable "day"
-value "pe"
+value "to"
 )
 (vvPair
 variable "day_long"
-value "perjantai"
+value "torstai"
 )
 (vvPair
 variable "dd"
-value "14"
+value "01"
 )
 (vvPair
 variable "entity_name"
@@ -169,7 +169,7 @@ value "mqange"
 )
 (vvPair
 variable "graphical_source_date"
-value "14.10.2022"
+value " 1.12.2022"
 )
 (vvPair
 variable "graphical_source_group"
@@ -177,11 +177,11 @@ value "UNKNOWN"
 )
 (vvPair
 variable "graphical_source_host"
-value "HTC219-720-SPC"
+value "HTC219-710-SPC"
 )
 (vvPair
 variable "graphical_source_time"
-value "12:43:54"
+value "23:45:53"
 )
 (vvPair
 variable "group"
@@ -189,7 +189,7 @@ value "UNKNOWN"
 )
 (vvPair
 variable "host"
-value "HTC219-720-SPC"
+value "HTC219-710-SPC"
 )
 (vvPair
 variable "language"
@@ -213,7 +213,7 @@ value "$HDS_PROJECT_DIR/alien_game_lib/svassistant"
 )
 (vvPair
 variable "mm"
-value "10"
+value "12"
 )
 (vvPair
 variable "module_name"
@@ -221,11 +221,11 @@ value "c3_t1_basic_alien"
 )
 (vvPair
 variable "month"
-value "loka"
+value "joulu"
 )
 (vvPair
 variable "month_long"
-value "lokakuu"
+value "joulukuu"
 )
 (vvPair
 variable "p"
@@ -289,7 +289,7 @@ value "struct"
 )
 (vvPair
 variable "time"
-value "12:43:54"
+value "23:45:53"
 )
 (vvPair
 variable "unit"
@@ -358,8 +358,8 @@ uid 14,0
 va (VaSet
 font "arial,8,0"
 )
-xt "58000,35500,62800,36500"
-st "Alien_Color"
+xt "58000,35500,62500,36500"
+st "alien_color"
 blo "58000,36300"
 tm "WireNameMgr"
 )
@@ -369,7 +369,7 @@ tm "WireNameMgr"
 uid 21,0
 lang 2
 decl (Decl
-n "Alien_Color"
+n "alien_color"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
 o 7
@@ -380,8 +380,9 @@ uid 22,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,55200,19500,56000"
-st "Alien_Color   : std_logic_vector(23 DOWNTO 0)"
+xt "-5000,55200,22000,56000"
+st "alien_color        : std_logic_vector(23 DOWNTO 0)
+"
 )
 )
 *3 (PortIoIn
@@ -444,8 +445,9 @@ uid 50,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,52800,9000,53600"
-st "clk           : std_logic"
+xt "-5000,52800,11500,53600"
+st "clk                : std_logic
+"
 )
 )
 *5 (PortIoIn
@@ -508,8 +510,9 @@ uid 64,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,52000,9000,52800"
-st "Enable        : std_logic"
+xt "-5000,52000,11500,52800"
+st "Enable             : std_logic
+"
 )
 )
 *7 (PortIoIn
@@ -572,8 +575,9 @@ uid 78,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,53600,9000,54400"
-st "hit           : std_logic"
+xt "-5000,53600,11500,54400"
+st "hit                : std_logic
+"
 )
 )
 *9 (PortIoIn
@@ -660,8 +664,8 @@ uid 98,0
 va (VaSet
 font "arial,8,0"
 )
-xt "58000,6500,63200,7500"
-st "X_coordinate"
+xt "58000,6500,65100,7500"
+st "alien_x_coordinate"
 blo "58000,7300"
 tm "WireNameMgr"
 )
@@ -671,7 +675,7 @@ tm "WireNameMgr"
 uid 105,0
 lang 2
 decl (Decl
-n "X_coordinate"
+n "alien_x_coordinate"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
 o 6
@@ -682,8 +686,9 @@ uid 106,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,56000,19000,56800"
-st "X_coordinate  : std_logic_vector(7 DOWNTO 0)"
+xt "-5000,56000,21500,56800"
+st "alien_x_coordinate : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *12 (PortIoOut
@@ -724,8 +729,8 @@ uid 112,0
 va (VaSet
 font "arial,8,0"
 )
-xt "58000,24500,63200,25500"
-st "Y_coordinate"
+xt "58000,24500,65100,25500"
+st "alien_y_coordinate"
 blo "58000,25300"
 tm "WireNameMgr"
 )
@@ -735,7 +740,7 @@ tm "WireNameMgr"
 uid 119,0
 lang 2
 decl (Decl
-n "Y_coordinate"
+n "alien_y_coordinate"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
 o 5
@@ -746,8 +751,9 @@ uid 120,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,56800,19000,57600"
-st "Y_coordinate  : std_logic_vector(7 DOWNTO 0)"
+xt "-5000,56800,21500,57600"
+st "alien_y_coordinate : std_logic_vector(7 DOWNTO 0)
+"
 )
 )
 *14 (Grouping
@@ -2972,8 +2978,9 @@ uid 510,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,61000,23000,61800"
-st "SIGNAL dout          : std_logic_vector(23 DOWNTO 0)"
+xt "-5000,61000,25500,61800"
+st "SIGNAL dout               : std_logic_vector(23 DOWNTO 0)
+"
 )
 )
 *99 (Net
@@ -2991,8 +2998,9 @@ uid 516,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,60200,23000,61000"
-st "SIGNAL din1          : std_logic_vector(23 DOWNTO 0)"
+xt "-5000,60200,25500,61000"
+st "SIGNAL din1               : std_logic_vector(23 DOWNTO 0)
+"
 )
 )
 *100 (Net
@@ -3009,8 +3017,9 @@ uid 522,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,59400,12500,60200"
-st "SIGNAL defeated      : std_logic"
+xt "-5000,59400,15000,60200"
+st "SIGNAL defeated           : std_logic
+"
 )
 )
 *101 (Net
@@ -3027,8 +3036,9 @@ uid 530,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,58600,12500,59400"
-st "SIGNAL current_point : std_logic"
+xt "-5000,58600,15000,59400"
+st "SIGNAL current_point      : std_logic
+"
 )
 )
 *102 (Net
@@ -3045,8 +3055,9 @@ uid 556,0
 va (VaSet
 font "Courier New,8,0"
 )
-xt "-5000,54400,9000,55200"
-st "rst           : std_logic"
+xt "-5000,54400,11500,55200"
+st "rst                : std_logic
+"
 )
 )
 *103 (Wire
@@ -3082,8 +3093,8 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "54000,35000,61800,36000"
-st "Alien_Color : (23:0)"
+xt "54000,35000,61500,36000"
+st "alien_color : (23:0)"
 blo "54000,35800"
 tm "WireNameMgr"
 )
@@ -3343,8 +3354,8 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "54000,6000,61800,7000"
-st "X_coordinate : (7:0)"
+xt "54000,6000,63700,7000"
+st "alien_x_coordinate : (7:0)"
 blo "54000,6800"
 tm "WireNameMgr"
 )
@@ -3385,8 +3396,8 @@ va (VaSet
 isHidden 1
 font "arial,8,0"
 )
-xt "54000,24000,61800,25000"
-st "Y_coordinate : (7:0)"
+xt "54000,24000,63700,25000"
+st "alien_y_coordinate : (7:0)"
 blo "54000,24800"
 tm "WireNameMgr"
 )
@@ -3587,8 +3598,8 @@ uid 582,0
 va (VaSet
 font "arial,8,0"
 )
-xt "26000,19000,31200,20000"
-st "X_coordinate"
+xt "26000,19000,33100,20000"
+st "alien_x_coordinate"
 blo "26000,19800"
 tm "WireNameMgr"
 )
@@ -3867,11 +3878,11 @@ tm "BdCompilerDirectivesTextMgr"
 associable 1
 )
 windowSize "0,24,2561,1440"
-viewArea "-16100,-11600,116881,61816"
+viewArea "-16100,-11600,116881,60220"
 cachedDiagramExtent "-7000,-20456,84571,61800"
 hasePageBreakOrigin 1
 pageBreakOrigin "-79000,0"
-lastUid 752,0
+lastUid 775,0
 defaultCommentText (CommentText
 shape (Rectangle
 layer 0
@@ -5011,7 +5022,7 @@ port (LogicalPort
 lang 2
 m 1
 decl (Decl
-n "Y_coordinate"
+n "alien_y_coordinate"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
 o 5
@@ -5025,7 +5036,7 @@ port (LogicalPort
 lang 2
 m 1
 decl (Decl
-n "X_coordinate"
+n "alien_x_coordinate"
 t "std_logic_vector"
 b "(7 DOWNTO 0)"
 o 6
@@ -5039,7 +5050,7 @@ port (LogicalPort
 lang 2
 m 1
 decl (Decl
-n "Alien_Color"
+n "alien_color"
 t "std_logic_vector"
 b "(23 DOWNTO 0)"
 o 7
@@ -5455,5 +5466,5 @@ vaOverrides [
 uid 210,0
 type 1
 )
-activeModelName "BlockDiag"
+activeModelName "BlockDiag:CDM"
 )
